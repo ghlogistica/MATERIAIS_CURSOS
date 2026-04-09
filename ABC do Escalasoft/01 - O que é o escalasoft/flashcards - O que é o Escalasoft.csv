@@ -1,0 +1,55 @@
+O que define o foco principal do sistema Escalasoft?;Empresas que prestam serviços de logística.;
+O Escalasoft pode ser categorizado em quais seis tipos de sistemas?;ERP, WMS, TMS, FMS, OMS e CMS.;
+Quais são as quatro categorias do sistema Escalasoft especificamente utilizadas na GH?;ERP, WMS, TMS e FMS.;
+Qual é a plataforma principal do Escalasoft para a execução da maioria dos processos?;A plataforma desktop.;
+Em qual linguagem de programação é desenvolvida a versão desktop do Escalasoft?;Object Pascal, utilizando Delphi.;
+Qual o sistema operacional exigido para rodar a versão de coletor de dados do Escalasoft?;Windows.;
+Como a interface do coletor de dados é ajustada para facilitar o uso operacional?;As telas são ajustadas ao tamanho do coletor e possuem botões maiores para o toque.;
+Cite uma atividade operacional típica realizada através do coletor de dados no Escalasoft.;Confirmar o endereçamento da mercadoria ou bipar o código de barras.;
+Qual o papel do coletor de dados durante o processo de carregamento?;Bipar os paletes carregados e registrar as ocorrências do carregamento.;
+Para quais tipos de leitura de código o coletor de dados é idealmente utilizado?;Códigos de barras ou QrCode.;
+A plataforma WEB do Escalasoft é compatível com qual sistema operacional móvel na forma de APP?;Android.;
+Qual o pÃºblico-alvo principal da versão WEB e do App do Escalasoft?;O cliente da empresa de logística.;
+O que os clientes conseguem consultar especificamente na plataforma WEB?;Seus estoques, relatórios, dashboards, status de pedidos e rastreamento.;
+Qual serviço a empresa Escalasoft oferece aos clientes que a GH optou por não utilizar?;Serviço de cloud (nuvem).;
+O que significa a sigla ERP no contexto de sistemas de gestão?;Enterprise Resource Planning (Sistema de gestão integrado).;
+Qual a principal utilidade da tecnologia ERP para um gestor?;Melhorar processos internos e integrar atividades de diferentes setores.;
+O que significa a sigla WMS?;Warehouse Management System (Sistema de gerenciamento de armazém).;
+Quais processos básicos são auxiliados por um sistema WMS?;Endereçamentos, picking, recebimentos e expedições.;
+O que significa a sigla TMS?;Transportation Management System (Sistema de Gestão de Transporte e Logística).;
+Qual a função do módulo FMS (Fleet Management System) no Escalasoft?;Gerenciar manutenções preventivas e corretivas da frota de veículos.;
+O que significa a sigla OMS?;Order Management System (Sistema de Gerenciamento de Pedidos).;
+Qual o objetivo de um sistema OMS em relação aos pedidos?;Rastrear informações desde a entrada do pedido até o serviço pós-venda.;
+Como o OMS auxilia a organização em relação ao inventário?;Proporciona uma visão dos estoques quase em tempo real.;
+O que as siglas CMS ou YMS representam na logística?;Yard Management System (Sistema de Gestão de Pátio).;
+Qual a demanda atendida por um sistema CMS/YMS?;Controle e monitoramento de centros logísticos de distribuição.;
+Onde o usuário pode visualizar as categorias do sistema ao abrir uma solicitação de suporte?;Na abertura de chamados, especificamente no campo 'sistema'.;
+Por que o Escalasoft utiliza elementos visuais similares a softwares de mercado conhecidos?;Para facilitar a adaptação do usuário ao programa.;
+Com qual pacote de software o Escalasoft compartilha semelhanças de menus e botões?;Pacote Microsoft Office.;
+Qual característica dos menus superiores é comum entre o Escalasoft e o Office?;O uso de botÃµes grandes com tamanhos desproporcionais.;
+Como são chamadas as telas de exibição de dados em formato de grade no Escalasoft?;Telas tabeladas.;
+Qual o nome do componente lateral de organização comum ao Office e ao Escalasoft?;Painel de navegação.;
+Além de menus e tabelas; qual outro elemento de interface é citado como similar ao Office?;Os formulÃ¡rios.
+O Escalasoft é categorizado como ERP; o que auxilia na integração de quais setores?;Vendas, finanÃ§as, estoque e recursos humanos.
+A versão de coletor de dados do Escalasoft é considerada uma versão _____ específica.;Desktop.;
+Qual a principal vantagem de usar o coletor de dados em vez do desktop na operação?;A portabilidade do equipamento para atividades de campo.;
+O que os dashboards na versão WEB do Escalasoft demonstram para o cliente?;A situação da operação, produtividade e pendÃªncias.;
+Termo: Picking;Processo de separação de pedidos gerenciado pelo sistema WMS.;
+Termo: Manutenção Preventiva;Atividade de gestão de frota controlada pelo módulo FMS para evitar falhas.;
+O sistema Escalasoft é desenvolvido primariamente em _____; usando a ferramenta Delphi.;Object Pascal.
+Verdadeiro ou Falso: A versão de coletor de dados do Escalasoft roda em Android.;Falso (ela roda em Windows).;
+Qual módulo do Escalasoft permite ao cliente rastrear suas cargas?;A plataforma WEB (ou App Android).;
+O sistema que gerencia a entrada de pedidos e o atendimento é o _____.;OMS (Order Management System).;
+A sigla YMS é um sinÃ´nimo para qual outra sigla no Escalasoft?;CMS (Yard Management System).;
+Qual a função do 'Painel de Navegação' na interface do sistema?;Facilitar o acesso e a alternÃ¢ncia entre diferentes telas ou funções.;
+O processo de 'bipar o código de barras' na separação de um pedido é feito em qual versão?;Versão de coletor de dados.;
+No contexto do Escalasoft; o que significa a integração de processos internos?;A unificação de informaÃ§Ãµes de diferentes departamentos em um Ãºnico sistema (ERP).
+O que caracteriza a 'versão desktop' em termos de abrangÃªncia de funções?;Ã‰ a plataforma onde se pode fazer praticamente todos os processos do sistema.;
+Qual a importÃ¢ncia de botÃµes maiores na versão de coletor?;Permitir a operação por toque na tela de forma eficiente.;
+O módulo _____ foca especificamente no controle e monitoramento de centros logísticos.;CMS ou YMS.;
+Qual componente do sistema é responsável por mostrar as pendÃªncias da operação ao cliente?;Relatórios e dashboards da versão WEB.;
+A gestão de pneus e trocas de óleo de caminhões seria responsabilidade de qual módulo?;FMS (Sistema de manutenção de frotas).;
+A frase 'Nada se cria; tudo se copia' é usada para justificar qual aspecto do Escalasoft?;Sua semelhanÃ§a visual com o Pacote Office para facilitar a usabilidade.
+Quais são os trÃªs principais processos de armazém citados no WMS?;Endereçamento, recebimento e expedição.;
+O acompanhamento do status do pedido pelo comprador é uma funcionalidade do _____.;OMS (Order Management System).;
+O sistema Escalasoft é categorizado como um software de gestão de qual setor econÃ´mico?;Setor logístico.;
