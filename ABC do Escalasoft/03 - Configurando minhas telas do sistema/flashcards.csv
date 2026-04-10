@@ -1,0 +1,53 @@
+Qual o objetivo principal do módulo 'Configurando minhas telas do sistema'?,"Entender como organizar grids, incluindo, excluindo ou alterando colunas e filtros."
+Para que serve a opção 'Gerenciar filtros'?,"Para incluir, remover ou editar filtros em uma tela do sistema."
+Qual o primeiro passo para acessar a gestão de filtros em uma tela?,Clicar no botão 'Filtrar' da tela desejada.
+"Após clicar em 'Filtrar', qual opção deve ser selecionada para configurar os critérios de busca?",Gerenciar filtros.
+"Na tela de 'Gerenciar filtros', o que é exibido no painel do lado esquerdo?",As opções que o usuário pode incluir como filtro.
+"Na tela de 'Gerenciar filtros', o que é exibido no painel do lado direito?",Os filtros que já estão disponíveis e ativos na tela.
+Qual a função das setas para cima e para baixo na tela de gerenciamento de filtros?,Movimentar para cima ou para baixo os itens que estão no lado direito da tela.
+Quais botões são utilizados para transferir informações entre as listas de filtros?,As setas para a direita e para a esquerda.
+Como se remove um filtro que já está disponível na tela?,Seleciona-se a informação no lado direito e clica-se na seta para a esquerda.
+Como se inclui uma nova opção de filtro na tela?,Seleciona-se o item desejado no lado esquerdo e clica-se na seta para a direita.
+A função 'Gerenciar campo' atua sobre qual elemento da interface do sistema?,A composição das colunas de uma tela.
+Quais permissões a função 'Gerenciar campo' concede ao usuário?,"Incluir, excluir ou editar colunas nas telas do sistema."
+Como se acessa a tela de 'Gerenciar campos' utilizando o mouse?,Clicando com o botão direito na tela desejada e selecionando 'Gerenciar campos'.
+O que o lado esquerdo da tela de 'Gerenciar campos' representa?,Tudo o que é possível incluir como coluna na tela que está sendo editada.
+O que o lado direito da tela de 'Gerenciar campos' representa?,Tudo o que já está disponível como coluna na tela editada.
+"No 'Gerenciar campos', qual a regra de exibição para os itens que estão no topo da lista da direita?",Eles ficarão posicionados mais à esquerda da tela.
+"No 'Gerenciar campos', itens posicionados mais abaixo na lista da direita ficarão em qual posição na grid?",Mais à direita da tela.
+Qual a função do botão 'Restaurar' nas telas do sistema?,Restaurar a tela para o padrão de fábrica.
+O que acontece com as edições de 'Gerenciar filtros' ao clicar em 'Restaurar'?,Todas as configurações são deletadas e a tela volta ao padrão original.
+O que acontece com as colunas personalizadas via 'Gerenciar campos' após o uso do botão 'Restaurar'?,As alterações são excluídas e as colunas voltam ao padrão de fábrica.
+Qual a cor característica do botão 'Fechar' que salva as edições da tela?,Vermelho.
+Para qual local o sistema direciona o usuário ao clicar no botão vermelho 'Fechar'?,Para a tela inicial do sistema.
+"Além de voltar à tela inicial, qual ação invisível o botão 'Fechar' realiza?",Ele salva as edições de filtros e campos feitas naquela tela.
+Qual o procedimento indicado para garantir que as alterações em 'Gerenciar campo' sejam gravadas?,Clicar no botão vermelho 'Fechar' ao finalizar as edições.
+"Além de salvar a estrutura da tela, o botão 'Fechar' também consegue salvar os _____ executados.",Filtros.
+O que acontece se você filtrar por um cliente específico e sair da tela clicando no botão 'Fechar'?,"Ao retornar à tela, o sistema exibirá apenas as ordens daquele cliente (filtro persistido)."
+Exemplo: Como manter um filtro de cliente ativo na tela de ordem de armazenagem para o próximo acesso?,Aplicar o filtro e sair da tela através do botão vermelho 'Fechar'.
+Termo: Grid,Definição: Telas do sistema organizadas em colunas e linhas que podem ser configuradas pelo usuário.
+Como movimentar uma coluna para que ela seja a primeira da esquerda na visualização?,Movê-la para o topo da lista no lado direito de 'Gerenciar campos'.
+Como movimentar uma coluna para que ela seja a última da direita na visualização?,Movê-la para a última posição da lista no lado direito de 'Gerenciar campos'.
+Onde se localizam os botões de ação (setas) nas telas de gerenciamento de filtros e campos?,"No meio da tela, entre os painéis esquerdo e direito."
+"Cloze: No gerenciamento de campos, o lado _____ mostra tudo que pode ser incluído na tela.",Esquerdo.
+"Cloze: No gerenciamento de filtros, o lado _____ mostra o que já está configurado na tela.",Direito.
+Por que o botão 'Fechar' é considerado uma 'dica valiosa' no material?,Porque ele é o responsável por salvar as customizações e filtros realizados pelo usuário.
+O que ocorre se o usuário fechar a tela por outro meio que não o botão vermelho após editar campos?,As edições podem não ser salvas e a organização da tela pode ser perdida.
+Como transferir um item da lista de 'disponíveis' para a lista de 'ativos'?,Selecionar o item à esquerda e clicar na seta para a direita.
+Como retirar um item da lista de filtros ativos?,Selecionar o item à direita e clicar na seta para a esquerda.
+Qual a principal similaridade entre 'Gerenciar filtros' e 'Gerenciar campos'?,O funcionamento da interface de listas (esquerda/direita) e o uso de setas para movimentação.
+Qual função deve ser usada para alterar a ordem das informações exibidas em uma grid?,Gerenciar campos.
+Qual função deve ser usada para restringir os dados exibidos em uma grid com base em critérios?,Gerenciar filtros.
+Qual a consequência de clicar no botão 'Restaurar' por engano?,A perda de todas as customizações manuais de filtros e colunas daquela tela.
+Procedimento: Para acessar 'Gerenciar campos' rapidamente.,Clique com o botão direito do mouse em qualquer lugar da tela alvo.
+"Cloze: No 'Gerenciar filtros', as setas para cima e baixo permitem _____ a ordem dos filtros ativos.",Organizar/Movimentar.
+Em qual cenário o sistema memoriza um filtro de cliente específico?,Quando o usuário filtra a tela e sai pelo botão vermelho 'Fechar'.
+Qual elemento visual da grid é alterado ao editar o 'Gerenciar campos'?,As colunas.
+Qual elemento visual da grid é alterado ao editar o 'Gerenciar filtros'?,As opções de busca/filtragem (filtros).
+O que define a posição horizontal de uma coluna na tela?,Sua posição vertical na lista do lado direito da tela 'Gerenciar campos'.
+O que acontece com os filtros salvos ao clicar em 'Restaurar'?,"Eles são removidos, voltando à configuração original do sistema."
+Como o usuário pode saber quais filtros já estão aplicados à sua tela?,Observando a lista do lado direito na tela de 'Gerenciar filtros'.
+Qual a utilidade das setas laterais na configuração da interface?,Incluir ou remover elementos (campos ou filtros) da visualização ativa.
+Para que servem as setas verticais na configuração da interface?,Reordenar a sequência em que os elementos aparecem na tela.
+O botão 'Restaurar' está presente em todas as telas?,O material afirma que ele existe em muitas telas do sistema.
+Qual ação o botão 'Fechar' realiza em relação à tela inicial?,Ele encerra a tela atual e retorna o usuário ao início do sistema.

@@ -1,0 +1,55 @@
+Qual o principal objetivo das integrações entre sistemas?,Evitar erros humanos de digitação através da comunicação entre softwares.
+Como o texto define o conceito de 'Integração'?,Formas de sistemas conversarem para automatizar processos e reduzir falhas.
+O que é o processo de importação de EDI?,A forma de importar arquivos de dados para dentro do sistema.
+Quem é responsável por desenvolver as regras de preenchimento dos arquivos de importação?,"As equipes de TI, a Escalasoft ou consultores de sistemas."
+O que acontece quando os arquivos EDI seguem as regras de preenchimento e formatos corretos?,O sistema transforma os dados do arquivo em informações internas processáveis.
+Qual formato de arquivo é comumente citado como exemplo para o envio de pedidos?,"O formato .csv, que pode ser aberto pelo Excel."
+Qual a consequência automática da importação de um arquivo de pedidos de clientes?,A criação automática de ordens de armazenagem para cada pedido.
+Qual tela é a mais utilizada para realizar a importação manual de arquivos?,A tela localizada dentro do módulo 'Integração'.
+Quem deve definir qual tela de importação específica o usuário deve utilizar?,O profissional que desenvolveu o modelo de importação.
+Onde se localizam as telas para importação específica de saídas e entradas?,Dentro do módulo de Armazenagem.
+O que deve ser solicitado ao desenvolvedor após a criação de um novo modelo de importação?,Um relatório descrevendo as instruções de uso do novo modelo.
+O que caracteriza o processo de exportação de EDI?,A extração de informações do sistema para a geração de arquivos externos.
+Para quais entidades os arquivos de exportação EDI costumam ser enviados?,"Clientes, fornecedores ou bancos."
+Quais são os dois elementos fundamentais para executar uma integração?,Modelos de arquivos (importação/exportação) e meios de transporte.
+Quais são os três meios de transporte de arquivos citados no material?,"E-mail, FTP e Integração Web Service."
+Qual o meio de integração mais simples de configurar?,O e-mail.
+Por que o e-mail é considerado o meio de transporte menos seguro?,Devido à dependência de servidores de e-mail que podem apresentar falhas técnicas.
+Que perfil de empresa geralmente utiliza a integração via e-mail?,Empresas que estão iniciando seus processos de integração.
+O que caracteriza o FTP como meio de integração?,O uso de pastas compartilhadas em um servidor que exige login e senha.
+Em que momento uma empresa geralmente migra para o uso de FTP?,Quando já possui vários clientes integrando e busca evoluir do uso do e-mail.
+Qual metodologia de integração permite que o sistema do cliente converse diretamente com o Escalasoft?,A integração Web Service.
+Qual a principal vantagem da integração Web Service em relação aos outros métodos?,A ausência de intermediários na comunicação entre os sistemas.
+Termo: EDI,Troca eletrônica de dados entre sistemas através de arquivos formatados.
+Integrações são formas de sistemas se conversarem para evitar erros humanos de _____.,digitação
+O arquivo no formato _____ permite que o setor administrativo crie ordens de armazenagem automaticamente.,.csv
+"Na exportação de EDI, o sistema _____ informações para enviar a terceiros.",extrai
+"Diferente do e-mail, o FTP utiliza pastas compartilhadas com _____ e senha.",login
+O Web Service coloca o sistema do cliente para conversar diretamente com o _____.,Escalasoft
+O que as equipes de TI definem para garantir que os dados importados sejam interpretados corretamente?,Formatações que estabelecem regras de preenchimento das informações.
+Por que é necessário pedir instruções ao desenvolvedor sobre qual tela de exportação usar?,Porque existem múltiplas telas de exportação disponíveis no sistema.
+Qual o papel do setor administrativo no exemplo prático de importação de pedidos?,Importar os arquivos enviados pelo cliente para automatizar a criação de ordens.
+Qual a principal vulnerabilidade do uso de e-mail para transporte de arquivos EDI?,A instabilidade potencial do servidor de e-mail.
+Como o FTP organiza os arquivos no servidor?,Através de pastas compartilhadas.
+Qual a meta tecnológica final da maioria das empresas em relação à integração?,Alcançar a integração via Web Service.
+A importação de EDI transforma dados de arquivos em _____ dentro do sistema.,informações
+Quem define a tela específica de importação no módulo de armazenagem?,O responsável pelo desenvolvimento do modelo de importação.
+Sob quais condições o sistema transforma dados de arquivos em informações úteis?,Quando preenchidos conforme as regras e salvos no formato correto.
+Qual meio de transporte é o sucessor natural do e-mail na evolução de uma empresa?,O FTP.
+O que o sistema gera no processo de exportação de EDI?,"Arquivos que podem ser enviados para bancos, clientes ou fornecedores."
+Qual a função do módulo 'Integração' no processo manual?,Disponibilizar a tela padrão para a importação de arquivos EDI.
+O que deve constar no relatório solicitado ao desenvolvedor de um novo modelo?,A descrição detalhada de como utilizar o modelo desenvolvido.
+Qual a relação entre o Excel e os pedidos enviados por clientes?,"O Excel pode abrir arquivos .csv, facilitando a visualização dos pedidos antes da importação."
+O processo de importar arquivos para dentro do sistema é chamado de _____ de EDI.,importação
+O processo de gerar arquivos para enviar ao cliente é chamado de _____ de EDI.,exportação
+O meio de transporte Web Service é considerado o mais avançado por não possuir _____.,intermediários
+As regras de preenchimento de informações são definidas em qual fase?,Na fase de desenvolvimento das formatações do sistema.
+O que o sistema cria automaticamente ao importar pedidos de um cliente logístico?,Ordens de armazenagem.
+A integração por e-mail é recomendada para quais tipos de empresas?,Empresas que estão começando a trabalhar com integração.
+Como se acessa as pastas em um servidor FTP?,Através de um login e uma senha.
+Qual a diferença fundamental entre importação e exportação de EDI quanto ao fluxo de dados?,"A importação insere dados no sistema, enquanto a exportação extrai dados para fora."
+Qual o risco de não seguir as regras de preenchimento em um arquivo EDI?,O sistema não conseguirá transformar os dados do arquivo em informações válidas.
+Onde o usuário pode encontrar telas para importar especificamente entradas de mercadorias?,No módulo de Armazenagem.
+Qual a vantagem de utilizar o módulo 'Integração' para importações manuais?,É a tela padrão e mais utilizada para esse fim no sistema.
+O que significa dizer que sistemas 'conversam'?,Significa que eles trocam dados de forma automatizada sem intervenção manual constante.
+Qual o papel dos consultores de sistemas no processo de EDI?,Desenvolver as formatações e regras de preenchimento dos arquivos no sistema.

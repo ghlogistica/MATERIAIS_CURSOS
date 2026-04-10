@@ -1,0 +1,50 @@
+Como a tela inicial do sistema Escalasoft pode ser configurada quanto à exibição de dados?,Ela pode ser configurada para ficar em branco ou para exibir painéis indicadores.
+Qual recurso permite navegar entre múltiplos painéis indicadores na tela inicial?,Abas localizadas na parte inferior da tela.
+Qual é o impacto técnico de manter um excesso de painéis na tela inicial?,O sistema pode apresentar lentidão durante o processo de abertura.
+Quem são os profissionais responsáveis pelo desenvolvimento dos painéis indicadores?,"A equipe de TI, a equipe Escalasoft ou consultores de sistema."
+Qual é a definição de um formulário dentro do sistema?,"É o local onde se preenchem informações para realizar cadastros, como produtos ou ordens de armazenagem."
+Qual é a principal vantagem da organização de formulários em 'Tab Pages' (abas)?,Proporcionar melhor organização e eliminar a necessidade de formulários excessivamente grandes.
+Quais são os três tipos de dados básicos permitidos em campos de digitação comum?,"Data, numérico ou texto."
+Como se diferenciam os 'campos de seleção' dos campos de preenchimento manual?,Eles exigem a seleção de informações já cadastradas no sistema em vez de digitação livre.
+Qual é a função de um 'parâmetro' (flag) nos formulários?,Informar se uma condição é verdadeira ou falsa através da marcação do campo.
+O que são as 'Grids' no sistema Escalasoft?,"São as telas tabeladas, também conhecidas como telas de gerenciamento."
+Como o usuário acessa a função de exportação em uma tela de gerenciamento?,Clicando com o botão direito do mouse na tela e selecionando a opção 'Exportar'.
+Quais são os formatos de arquivo disponíveis para a exportação de dados de um grid?,xlsx (Excel) ou csv.
+"Durante o processo de exportação, o que o sistema solicita após a escolha do formato do arquivo?",A indicação do local onde o arquivo exportado deverá ser salvo.
+Onde se localiza a função para alterar a senha do usuário logado?,"Nos menus superiores, situados no topo do sistema."
+Qual é a utilidade dos botões superiores que funcionam como atalhos?,"Direcionar o usuário rapidamente para telas como Help Desk, Pessoa ou Tarefas."
+Qual componente do sistema lista todas as telas às quais o usuário possui acesso liberado?,Painel de Navegação.
+Quais são os dois locais onde os Módulos podem ser encontrados no sistema?,No painel de navegação e na abertura de chamados.
+Qual é o padrão visual utilizado para identificar as 'Pastas' no painel de navegação?,Ícones com desenhos de uma pasta aberta.
+O que caracteriza a padronização das pastas entre diferentes módulos?,"Módulos distintos possuem pastas com nomes idênticos para funções iguais, como a pasta 'Relatórios'."
+O que acontece ao clicar em um ícone azul dentro do painel de navegação?,O sistema direciona o usuário para um grid ou tela tabelada que listará informações.
+Qual é o objetivo principal do Menu de Favoritos?,Criar um acesso resumido contendo apenas as telas que o usuário utiliza com mais frequência.
+Qual símbolo identifica o botão de acesso à seleção de filial logada?,O ícone >> localizado acima do painel de navegação.
+Quais fatores determinam a quantidade de filiais que um usuário pode visualizar para seleção?,A função ocupada pelo usuário e a autorização concedida pela gestão da empresa.
+O que define o relatório do tipo 'Cubo' no Escalasoft?,"Um relatório semelhante a uma planilha dinâmica do Excel, montado conforme a necessidade do usuário."
+Onde ficam armazenados os relatórios do tipo Cubo dentro de cada módulo?,Dentro de uma pasta obrigatoriamente chamada 'Cubo'.
+Quais são as opções de exportação disponíveis para os Painéis Indicadores?,Exportação como imagem ou como arquivo Excel.
+Em qual pasta específica os painéis indicadores ficam organizados dentro de um módulo?,Pasta nomeada como 'Painel'.
+Qual é a finalidade da tela de FAQ no sistema?,"Disponibilizar documentações oficiais, manuais e dicas baseadas em perguntas frequentes de chamados."
+Como se define qual coluna será o critério de filtragem no campo de pesquisa de um grid?,Clicando diretamente no título da coluna que se deseja utilizar para a busca.
+O que caracteriza o tipo de 'Pesquisa aproximada'?,A localização de linhas que contenham apenas uma parte da informação digitada pelo usuário.
+Qual é a exigência para o funcionamento da 'Pesquisa exata'?,O usuário deve digitar a informação completa conforme cadastrada no sistema.
+Como devem ser separados os valores ao utilizar a opção 'Pesquisa múltiplos'?,Através do uso do caractere ponto e vírgula (;).
+Termo: Grid,Definição: Telas tabeladas do sistema utilizadas para gerenciamento de dados.
+Conceito: Cubo,Relatório que permite ao usuário montar sua própria visualização de dados a partir de uma planilha base.
+A tela inicial pode ser configurada para exibir _____ indicadores para monitoramento de dados.,painéis
+"As pastas de todos os módulos seguem o mesmo _____, facilitando a localização de relatórios.",padrão
+"Ao exportar um grid, o sistema permite que o usuário selecione quais _____ deseja exportar.",colunas
+Os botões superiores de cada tela podem executar funções específicas como _____ ou imprimir registros.,cancelar
+"Diferente dos campos de digitação, o _____ é utilizado para marcar algo como verdadeiro ou falso.",parâmetro
+"Os relatórios Cubo possuem ferramentas de _____, permitindo filtrar por qualquer coluna presente na planilha.",filtro
+"Na tela de FAQ, as respostas são elaboradas pela equipe de desenvolvedores com base em dúvidas de _____.",chamados
+O Painel de Navegação é considerado o menu mais _____ do sistema Escalasoft.,completo
+"Para cadastrar um novo produto, o usuário deve preencher um _____.",formulário
+"No painel de navegação, ícones de pasta aberta representam as _____ do sistema.",pastas
+A pesquisa do tipo _____ tenta localizar informações contidas em qualquer parte da linha.,aproximada
+Qual é a função do botão 'Voltar registro' nos botões superiores?,Navegar para o registro anterior dentro de uma determinada tela.
+Onde o usuário encontra o ícone para acessar o Help Desk de forma rápida?,Nos botões superiores do sistema.
+Qual é a principal função dos Módulos no Escalasoft?,Dividir o sistema em pequenas partes de forma organizada.
+"Os Painéis Indicadores podem conter gráficos e _____, ambos passíveis de exportação.",tabelas
+A função de exportar do grid é acessada através do botão _____ do mouse.,direito

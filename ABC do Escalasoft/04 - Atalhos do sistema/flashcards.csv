@@ -1,0 +1,54 @@
+Qual o atalho para abrir uma nova instância do sistema?,CTRL + SHIFT + F5
+O atalho CTRL + SHIFT é utilizado para corrigir o sistema quando ocorre qual falha?,Quando o sistema abre mas não permite a digitação.
+Qual tecla de função abre o Painel de Navegação do sistema?,F6
+"Para acessar o menu de favoritos, qual tecla deve ser pressionada?",F7
+Qual a utilidade da tecla F11 no sistema?,Listar algumas opções de acesso rápido.
+"Em uma tela de Grid, qual atalho abre o formulário para cadastrar um novo registro?",CTRL + +
+Qual o comando de teclado para realizar uma pesquisa dentro das telas (Grids)?,CTRL + F
+"Em uma Grid, qual tecla abre o formulário do registro que já está selecionado?",ENTER
+Qual atalho seleciona todos os registros exibidos em uma Grid?,CTRL + A
+"Dentro de um formulário, qual o comando para 'Gravar' sem usar o mouse?",CTRL + ENTER
+O comando CTRL + SHIFT + ENTER executa quais duas funções em sequência?,Gravar e depois Incluir.
+"Dentro de um formulário, qual comando de teclado tem a mesma função que o CTRL + SHIFT + ENTER?",CTRL + +
+Qual atalho exclui um registro filho (ex: item de ordem de armazenagem) em status cadastrado?,CTRL + SHIFT + -
+"Para cadastrar um novo registro filho dentro de um formulário, utiliza-se o atalho _____.",CTRL + SHIFT + +
+"Qual comando exclui o registro principal aberto, desde que esteja no status cadastrado?",CTRL + -
+"Dentro de formulários, qual a função da tecla ENTER?",Pular para o próximo campo.
+Qual tecla é usada para fechar o formulário atual?,ESC
+A tecla _____ habilita atalhos baseados em letras sublinhadas nas palavras do formulário.,ALT
+"Se a letra 'E' do botão 'Excluir' estiver sublinhada, qual o atalho para essa função?",ALT + E
+"Ao clicar em F3 com um campo de seleção vazio, o que o sistema faz?",Abre a tela para cadastrar um novo registro.
+"Se um campo de seleção já possuir algo selecionado, qual a função da tecla F3?",Abre o formulário de cadastro daquele registro específico.
+Qual tecla exibe a lista de opções para preencher um campo de seleção?,F4
+Qual a principal característica da lista exibida pelo atalho CTRL + F3 em campos de seleção?,O sistema traz a lista sem aplicar filtros (como o de cadastros ativos).
+"Diferente do F4, o atalho CTRL + F3 abre o formulário da opção selecionada para _____.",Edição
+Qual atalho permite definir por quais campos será possível procurar um registro em um campo de seleção?,CTRL + Clique
+Para que serve o caractere Pipe '|' em campos de busca de seleção?,Pula a coluna de pesquisa.
+"Se a primeira linha de pesquisa é 'Nome' e a segunda é 'CNPJ', como pesquisar direto pelo CNPJ sem o mouse?",Digitar o caractere '|' (Pipe) seguido do CNPJ no campo.
+Como é possível pular três colunas de pesquisa simultaneamente usando o teclado?,Inserindo três caracteres Pipe (|||) um ao lado do outro.
+"Dentro de uma caixa de texto (descrição ou observação), qual a função do CTRL + Clique?",Maximiza ou amplia a caixa de texto.
+O atalho F6 está relacionado a qual componente do sistema?,Painel de Navegação
+O atalho F7 está relacionado a qual componente do sistema?,Menu de favoritos
+Qual a condição para que o atalho CTRL + - funcione ao tentar excluir um registro?,O registro deve estar no status cadastrado.
+Qual comando de teclado é o inverso funcional do CTRL + SHIFT + -?,CTRL + SHIFT + + (Cadastrar registro filho)
+"Para selecionar todos os itens de uma lista em uma grid, usa-se _____.",CTRL + A
+O atalho CTRL + SHIFT + F5 abre um _____ sistema.,Novo
+"Para buscar um termo em uma tela de listagem, o usuário deve pressionar _____.",CTRL + F
+"Em campos de seleção, qual atalho abre uma lista que ignora filtros de cadastros inativos?",CTRL + F3
+Qual tecla deve ser usada para sair de um formulário sem gravar as alterações?,ESC
+"Se eu souber que o CNPJ é o terceiro campo de busca, quantos Pipes devo digitar antes do número?",Dois Pipes (||).
+"O atalho CTRL + SHIFT + - é usado especificamente para registros _____, como itens de uma ordem.",Filhos
+Para que serve a tecla F4 em um campo de seleção?,Exibir a lista de opções filtrada (ex: apenas ativos).
+Qual a ação do sistema ao pressionar F3 sobre um campo de seleção que já contém um cliente?,Abrir o cadastro daquele cliente específico.
+O atalho CTRL + ENTER substitui qual ação do mouse?,Clicar no botão Gravar.
+"Para maximizar uma observação em um formulário, deve-se usar _____.",CTRL + Clique
+Qual atalho executa 'Gravar' e imediatamente 'Incluir' um novo registro no formulário?,CTRL + SHIFT + ENTER (ou CTRL + +)
+"Para habilitar as letras de atalho (como o 'E' de Excluir), utiliza-se a tecla _____.",ALT
+Qual atalho de Grid é idêntico ao atalho de 'Gravar e Incluir' de formulários?,CTRL + +
+"Se o sistema 'travar' e não aceitar entrada de texto logo após abrir, qual atalho deve ser tentado?",CTRL + SHIFT
+Como o sistema sinaliza que um botão tem um atalho via tecla ALT?,Através de um sublinhado abaixo de uma das letras da palavra.
+O atalho CTRL + clique em campos de seleção serve para configurar o que será _____ no campo.,Exibido
+Qual tecla deve ser usada para navegar entre os campos de um formulário sem usar o mouse?,ENTER
+Qual a diferença entre F3 e F4 em campos de seleção?,F3 abre o formulário de cadastro; F4 abre a lista de seleção.
+O atalho CTRL + - exclui o registro aberto desde que ele esteja em qual status?,Cadastrado
+O atalho F11 é destinado a qual funcionalidade?,Acesso rápido
