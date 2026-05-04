@@ -1,0 +1,50 @@
+Qual é a combinação de teclas utilizada para abrir uma nova instância do sistema?
+(true) CTRL + SHIFT + F5
+(false) CTRL + ALT + F5
+(false) SHIFT + F5
+(false) CTRL + F5
+Se o sistema abrir mas não permitir que o usuário digite nenhuma informação, qual atalho deve ser utilizado para corrigir esse comportamento?
+(false) ALT + SHIFT
+(false) F6
+(false) CTRL + ALT
+(true) CTRL + SHIFT
+Dentro de uma tela de Grid (listagem), qual comando seleciona todos os registros exibidos simultaneamente?
+(false) SHIFT + A
+(false) CTRL + S
+(false) CTRL + T
+(true) CTRL + A
+Ao preencher um formulário, qual tecla permite avançar para o próximo campo sem a necessidade de usar o mouse?
+(false) TAB
+(false) ESPAÇO
+(true) ENTER
+(false) Seta para baixo
+Como o usuário pode identificar um atalho que utiliza a tecla ALT em botões como 'Excluir' ou 'Gravar'?
+(true) Pelo sublinhado abaixo de uma letra específica na palavra.
+(false) Pelas letras em negrito no nome do botão.
+(false) Apenas consultando o manual de ajuda (F1).
+(false) Pela cor diferenciada da primeira letra.
+Qual é a função do atalho F3 quando o campo de seleção já possui um registro preenchido?
+(false) Abrir uma lista de opções filtrada apenas pelos itens ativos.
+(true) Abrir o formulário de cadastro daquele registro específico para consulta ou edição.
+(false) Limpar o conteúdo do campo.
+(false) Excluir o registro selecionado do banco de dados.
+Para que serve o uso do caractere Pipe '|' (barra vertical) em campos de seleção e pesquisa?
+(false) Para separar múltiplos nomes de clientes em uma mesma busca.
+(false) Para encerrar a pesquisa e fechar o formulário automaticamente.
+(false) Para indicar ao sistema que o texto digitado é um valor numérico.
+(true) Para pular colunas de pesquisa e buscar por outros critérios, como o CNPJ.
+Qual atalho permite expandir (maximizar) uma caixa de texto, como um campo de observações, para facilitar a leitura?
+(true) ALT + Clique
+(false) Duplo Clique
+(false) CTRL + Clique
+(false) SHIFT + Clique
+Ao utilizar o atalho CTRL + SHIFT + ENTER dentro de um formulário, qual ação o sistema executa?
+(false) Apenas grava os dados, permanecendo no mesmo registro.
+(false) Fecha o formulário sem salvar as alterações.
+(true) Grava o registro atual e abre imediatamente a tela para incluir um novo.
+(false) Exclui o registro atual e limpa todos os campos.
+Qual a diferença fundamental entre o uso do F4 e do CTRL + F3 em um campo de seleção?
+(true) O F4 abre a lista com filtros (ex: ativos) e o CTRL + F3 abre sem filtros para edição.
+(false) Não há diferença, ambos exibem a mesma lista de opções sem distinção.
+(false) O F4 é para cadastrar novos registros e o CTRL + F3 é para pesquisar.
+(false) O F4 fecha o formulário e o CTRL + F3 salva as alterações.

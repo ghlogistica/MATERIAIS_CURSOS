@@ -1,0 +1,50 @@
+Qual o software utilizado para realizar o acompanhamento dos chamados (HDs)?,Escalasoft.
+"O que indica o status ""Cadastrado"" em um chamado?",O HD ainda está em edição e não pode ser atendido pela TI.
+"O que acontece com chamados que permanecem no status ""Cadastrado"" por mais de uma semana?",Eles são excluídos automaticamente.
+Qual status indica que um chamado está na fila do TI sem um atendente específico definido?,Ag. Execução.
+O status _____ é utilizado quando é necessário acionar desenvolvedores externos para atender a solicitação.,Ag. Escalasoft
+"O que significa o status ""Ag. Homologação""?",O chamado foi respondido e aguarda validação do solicitante.
+"No status ""Ag. Aprovação de Orçamento"", qual ação a Escalasoft está aguardando?",A aprovação do custo da modificação pela GH.
+Qual status é aplicado quando o atendente precisa de mais detalhes para prosseguir com o chamado?,Ag. Informações Complementares.
+"O que o status ""Em Execução"" informa sobre o atendimento?",O chamado está na fila de um atendente particular para ser resolvido em breve.
+"O status ""Cancelado"" indica que o chamado não será atendido por não ser mais _____.",necessário
+"Em que condição um chamado atinge o status ""Encerrado""?",Quando o solicitante aprova a resposta enviada pela TI.
+"O que é o status ""Retorno de Homologação""?",Status de um chamado cuja resposta foi rejeitada pelo solicitante.
+Qual status o chamado assume quando a Escalasoft envia uma solução ou orçamento?,Retorno da Escalasoft.
+"Para que serve o status ""Ag. Modificações""?",Para a equipe de TI documentar melhor um chamado antes de enviá-lo à Escalasoft.
+"O status ""Retorno de Aprovação de Orçamento"" indica que houve uma _____ do orçamento enviado.",devolutiva (aprovação ou rejeição)
+Campo: Recurso,Indica o responsável pelo atendimento do HD no momento.
+"Se o campo ""Recurso"" estiver preenchido com o seu nome de usuário, o que isso significa?",O HD está aguardando uma atualização ou ação sua.
+"Qual a finalidade do campo ""Solução""?",Informar a data em que o chamado foi respondido/solucionado.
+"O que define o campo ""SLA TI""?",O prazo máximo que a equipe de TI tem para atender ao chamado.
+"O campo ""SLA Escalasoft"" refere-se ao prazo para o _____ atendimento do chamado pelo fornecedor.",primeiro
+"O que representa o campo ""Homologar até""?",O prazo limite para o solicitante aprovar ou recusar a solução.
+"Qual informação é exibida no campo ""Observação"" da tela de chamados?",O último texto de atendimento ou encaminhamento realizado.
+"Qual a diferença entre o campo ""Solicitação"" e o campo ""Atendimento""?",A solicitação é o texto inicial do usuário; o atendimento é a troca de mensagens e status.
+Qual recurso do sistema é utilizado para direcionar o chamado para a fila de um atendente ou para a Escalasoft?,Encaminhamento.
+"Quem tem permissão para utilizar as ""Ocorrências"" no sistema de Help Desk?",Somente a equipe de TI.
+Onde ficam armazenados os dados de imagens enviadas em chamados abertos via WhatsApp?,Campo complementar.
+"Qual a função da aba ""Anexo"" no acompanhamento de chamados?","Vincular arquivos como prints, vídeos e manuais à solicitação."
+"No status ""Ag. Execução"", quem da equipe de TI pode realizar ações no chamado?",Qualquer pessoa da equipe de TI.
+"Como a TI gerencia chamados de ""Melhoria"" enviados à Escalasoft em termos de prazo?","Não existe SLA, pois são apenas sugestões que podem ou não ser desenvolvidas."
+"O que a equipe de TI faz quando um chamado está no status ""Retorno da Escalasoft""?","Analisa a resposta, realiza testes e então responde ao solicitante."
+"Se um solicitante rejeita uma resposta em homologação, o que o sistema exige?",Uma descrição detalhada do porquê o atendimento foi rejeitado.
+Qual tipo específico de encaminhamento deve ser usado para aprovar um orçamento?,RETORNO ORÇAMENTO.
+"Se o aprovador de um orçamento não for gestor, qual evidência o TI exige em anexo?",Comprovação da ciência e aprovação do gestor do departamento (ex: print de e-mail).
+O que deve constar na evidência de aprovação do gestor para ser válida para o TI?,O número do chamado em questão na mensagem de aprovação.
+"Caso um orçamento seja reprovado, qual o procedimento final da TI?",Atende o chamado informando que a necessidade não será suprida por falta de aprovação de custos.
+"Qual encaminhamento deve ser utilizado para responder a uma solicitação de mais detalhes no status ""Ag. Informações Complementares""?",RETORNO DE INFORMAÇÕES COMPLEMENTARES.
+"Após o envio de informações complementares, para qual status o chamado retorna?",Ag. Execução.
+"O que indica o recurso ""atualizar.sistema"" no status ""Em Execução""?",O chamado aguarda o download e instalação da versão com a correção da Escalasoft.
+"Quem tem autorização para reabrir um chamado que já está no status ""Encerrado""?",Somente a equipe de TI.
+"Por que a TI coloca chamados no status ""Ag. Modificações"" antes de enviar à Escalasoft?",Para traduzir a solicitação para uma linguagem mais técnica e completa.
+"Em relação às ocorrências, cite um exemplo de ajuste que a TI pode realizar.","Ajuste de SLA, severidade ou categoria do chamado."
+O campo _____ informa a data em que o usuário abriu o chamado.,Data
+"O que acontece imediatamente após o lançamento de um encaminhamento de ""RETORNO ORÇAMENTO""?",O chamado muda para o status de Retorno de Aprovação.
+Como o solicitante deve proceder para incluir evidências no chamado?,Utilizando a aba de anexo para enviar prints ou vídeos.
+Qual a consequência de aprovar um orçamento para o departamento do solicitante?,Poderá acarretar custos financeiros diretos ao departamento.
+"O que é necessário fazer com um chamado no status ""Cadastrado"" para que o TI o visualize?",Finalizar o preenchimento e liberá-lo.
+Termo: Homologação,"Processo de leitura, teste e validação da solução proposta pela TI pelo solicitante."
+"No status ""Em Execução"", quem é a única parte que pode realizar ações no chamado?",A equipe de TI.
+Qual a principal diferença entre Atendimento e Encaminhamento?,O encaminhamento é mais completo e permite direcionar o fluxo do chamado para outros responsáveis.
+"O campo ""Status"" e o campo ""Data de mudança de status"" permitem identificar o nome da situação atual e _____.",quando ela foi alterada

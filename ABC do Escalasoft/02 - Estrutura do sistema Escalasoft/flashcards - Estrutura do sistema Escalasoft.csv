@@ -1,0 +1,50 @@
+Como a tela inicial do sistema Escalasoft pode ser configurada quanto …ÿexibi‡Æo de dados?;Ela pode ser configurada para ficar em branco ou para exibir pain‚is indicadores.
+Qual recurso permite navegar entre m£ltiplos pain‚is indicadores na tela inicial?;Abas localizadas na parte inferior da tela.
+Qual ‚ o impacto t‚cnico de manter um excesso de pain‚is na tela inicial?;O sistema pode apresentar lentidÆo durante o processo de abertura.
+Quem sÆo os profissionais respons veis pelo desenvolvimento dos pain‚is indicadores?;A equipe de TI, a equipe Escalasoft ou consultores de sistema.
+Qual ‚ a defini‡Æo de um formul rio dentro do sistema?; o local onde se preenchem informa‡äes para realizar cadastros, como produtos ou ordens de armazenagem.
+Qual ‚ a principal vantagem da organiza‡Æo de formul rios em 'Tab Pages' (abas)?;Proporcionar melhor organiza‡Æo e eliminar a necessidade de formul rios excessivamente grandes.
+Quais sÆo os trˆs tipos de dados b sicos permitidos em campos de digita‡Æo comum?;Data, num‚rico ou texto.
+Como se diferenciam os 'campos de sele‡Æo' dos campos de preenchimento manual?;Eles exigem a sele‡Æo de informa‡äes j  cadastradas no sistema em vez de digita‡Æo livre.
+Qual ‚ a fun‡Æo de um 'parƒmetro' (flag) nos formul rios?;Informar se uma condi‡Æo ‚ verdadeira ou falsa atrav‚s da marca‡Æo do campo.
+O que sÆo as 'Grids' no sistema Escalasoft?;SÆo as telas tabeladas, tamb‚m conhecidas como telas de gerenciamento.
+Como o usu rio acessa a fun‡Æo de exporta‡Æo em uma tela de gerenciamento?;Clicando com o botÆo direito do mouse na tela e selecionando a op‡Æo 'Exportar'.
+Quais sÆo os formatos de arquivo dispon¡veis para a exporta‡Æo de dados de um grid?;xlsx (Excel) ou csv.
+Durante o processo de exporta‡Æo, o que o sistema solicita ap¢s a escolha do formato do arquivo?;A indica‡Æo do local onde o arquivo exportado dever  ser salvo.
+Onde se localiza a fun‡Æo para alterar a senha do usu rio logado?;Nos menus superiores, situados no topo do sistema.
+Qual ‚ a utilidade dos botäes superiores que funcionam como atalhos?;Direcionar o usu rio rapidamente para telas como Help Desk, Pessoa ou Tarefas.
+Qual componente do sistema lista todas as telas …ÿs quais o usu rio possui acesso liberado?;Painel de Navega‡Æo.
+Quais sÆo os dois locais onde os M¢dulos podem ser encontrados no sistema?;No painel de navega‡Æo e na abertura de chamados.
+Qual ‚ o padrÆo visual utilizado para identificar as 'Pastas' no painel de navega‡Æo?;Öcones com desenhos de uma pasta aberta.
+O que caracteriza a padroniza‡Æo das pastas entre diferentes m¢dulos?;M¢dulos distintos possuem pastas com nomes idˆnticos para fun‡äes iguais, como a pasta 'Relat¢rios'.
+O que acontece ao clicar em um ¡cone azul dentro do painel de navega‡Æo?;O sistema direciona o usu rio para um grid ou tela tabelada que listar  informa‡äes.
+Qual ‚ o objetivo principal do Menu de Favoritos?;Criar um acesso resumido contendo apenas as telas que o usu rio utiliza com mais frequˆncia.
+Qual s¡mbolo identifica o botÆo de acesso …ÿ sele‡Æo de filial logada?;O ¡cone >> localizado acima do painel de navega‡Æo.
+Quais fatores determinam a quantidade de filiais que um usu rio pode visualizar para sele‡Æo?;A fun‡Æo ocupada pelo usu rio e a autoriza‡Æo concedida pela gestÆo da empresa.
+O que define o relat¢rio do tipo 'Cubo' no Escalasoft?;Um relat¢rio semelhante a uma planilha dinƒmica do Excel, montado conforme a necessidade do usu rio.
+Onde ficam armazenados os relat¢rios do tipo Cubo dentro de cada m¢dulo?;Dentro de uma pasta obrigatoriamente chamada 'Cubo'.
+Quais sÆo as op‡äes de exporta‡Æo dispon¡veis para os Pain‚is Indicadores?;Exporta‡Æo como imagem ou como arquivo Excel.
+Em qual pasta espec¡fica os pain‚is indicadores ficam organizados dentro de um m¢dulo?;Pasta nomeada como 'Painel'.
+Qual ‚ a finalidade da tela de FAQ no sistema?;Disponibilizar documenta‡äes oficiais, manuais e dicas baseadas em perguntas frequentes de chamados.
+Como se define qual coluna ser  o crit‚rio de filtragem no campo de pesquisa de um grid?;Clicando diretamente no t¡tulo da coluna que se deseja utilizar para a busca.
+O que caracteriza o tipo de 'Pesquisa aproximada'?;A localiza‡Æo de linhas que contenham apenas uma parte da informa‡Æo digitada pelo usu rio.
+Qual ‚ a exigˆncia para o funcionamento da 'Pesquisa exata'?;O usu rio deve digitar a informa‡Æo completa conforme cadastrada no sistema.
+Como devem ser separados os valores ao utilizar a op‡Æo 'Pesquisa m£ltiplos'?;Atrav‚s do uso do caractere ponto e v¡rgula
+Termo: Grid;Defini‡Æo: Telas tabeladas do sistema utilizadas para gerenciamento de dados.
+Conceito: Cubo;Relat¢rio que permite ao usu rio montar sua pr¢pria visualiza‡Æo de dados a partir de uma planilha base.
+A tela inicial pode ser configurada para exibir _____ indicadores para monitoramento de dados.;pain‚is
+As pastas de todos os m¢dulos seguem o mesmo _____ facilitando a localiza‡Æo de relat¢rios.;padrÆo
+Ao exportar um grid,  o sistema permite que o usu rio selecione quais _____ deseja exportar.;colunas
+Os botäes superiores de cada tela podem executar fun‡äes espec¡ficas como _____ ou imprimir registros.;cancelar
+Diferente dos campos de digita‡Æo,  o _____ ‚ utilizado para marcar algo como verdadeiro ou falso.;parƒmetro
+Os relat¢rios Cubo possuem ferramentas de _____,  permitindo filtrar por qualquer coluna presente na planilha.;filtro
+Na tela de FAQ,  as respostas sÆo elaboradas pela equipe de desenvolvedores com base em d£vidas de _____.;chamados
+O Painel de Navega‡Æo ‚ considerado o menu mais _____ do sistema Escalasoft.;completo
+Para cadastrar um novo produto, o usu rio deve preencher um _____.;formul rio
+No painel de navega‡Æo,  ¡cones de pasta aberta representam as _____ do sistema.;pastas
+A pesquisa do tipo _____ tenta localizar informa‡äes contidas em qualquer parte da linha.;aproximada
+Qual ‚ a fun‡Æo do botÆo 'Voltar registro' nos botäes superiores?;Navegar para o registro anterior dentro de uma determinada tela.
+Onde o usu rio encontra o ¡cone para acessar o Help Desk de forma r pida?;Nos botäes superiores do sistema.
+Qual ‚ a principal fun‡Æo dos M¢dulos no Escalasoft?;Dividir o sistema em pequenas partes de forma organizada.
+Os Pain‚is Indicadores podem conter gr ficos e _____,  ambos poss¡veis de exporta‡Æo.;tabelas
+A fun‡Æo de exportar do grid ‚ acessada atrav‚s do botÆo _____ do mouse.;direito

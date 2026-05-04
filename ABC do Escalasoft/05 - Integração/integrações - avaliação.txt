@@ -1,0 +1,50 @@
+Qual é o principal objetivo das integrações entre sistemas segundo o material?
+(false) Garantir que todos os arquivos sejam impressos.
+(true) Evitar erros humanos de digitação.
+(false) Aumentar o tempo de processamento de dados.
+(false) Substituir a necessidade de uma equipe de TI.
+O que define o processo de importação de EDI?
+(false) O envio manual de e-mails para os clientes.
+(false) A criação de senhas para novos usuários.
+(true) Formas de importar arquivos para dentro do sistema.
+(false) A exclusão de dados antigos do banco de dados.
+Quem é responsável por desenvolver as formatações e regras de preenchimento no sistema?
+(true) Equipes de TI, Escalasoft ou consultores.
+(false) Apenas o usuário final do sistema.
+(false) O setor de recursos humanos da empresa.
+(false) O motorista responsável pela entrega.
+O que deve ser solicitado a quem desenvolveu um novo modelo de importação?
+(false) A senha de administrador do servidor.
+(false) O código-fonte do sistema.
+(false) Uma nova licença de uso do Excel.
+(true) Um relatório descrevendo como utilizar o modelo.
+Sobre a Exportação de EDI, qual é a sua principal característica?
+(false) O sistema bloqueia a edição de dados.
+(true) O sistema extrai informações para gerar arquivos externos.
+(false) A exportação é feita apenas via telefone.
+(false) O sistema apaga os pedidos finalizados.
+Quais são os três meios de transporte de arquivos mencionados no texto?
+(false) WhatsApp, SMS e Ligação Telefônica.
+(false) Pendrive, CD-ROM e Disquete.
+(true) E-mail, FTP e Web Service.
+(false) Bluetooth, Infravermelho e QR Code.
+O que caracteriza o meio de integração via FTP?
+(false) Uma conversa por chat entre dois operadores.
+(true) Pastas compartilhadas em um servidor com login e senha.
+(false) O envio de arquivos gravados em um DVD.
+(false) Uma conexão via cabo serial entre dois computadores.
+A integração Web Service elimina qual dos seguintes elementos no processo?
+(false) A necessidade de internet.
+(false) A existência de um banco de dados.
+(false) A utilização de energia elétrica.
+(true) Pessoas intermediárias.
+A regra sobre qual tela de exportação utilizar é definida por quem?
+(false) Pelo governo federal.
+(true) Pelo desenvolvedor do modelo.
+(false) Pelo banco que receberá o arquivo.
+(false) Pelo motorista do caminhão.
+Qual a principal diferença entre Importação e Exportação de EDI?
+(false) A importação usa internet e a exportação não.
+(false) Só existe importação para arquivos .csv.
+(true) A importação insere dados e a exportação extrai dados.
+(false) A importação é gratuita e a exportação é paga.

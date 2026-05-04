@@ -1,0 +1,80 @@
+Em qual sistema deve ser realizado o acompanhamento dos chamados (HDs)?,Escalasoft.
+Qual tela do sistema deve ser acessada para visualizar todos os chamados de um usuário?,Tela Help Desk.
+O que indica o status 'Cadastrado' em um chamado?,O chamado ainda está em edição e não pode ser visualizado pelo TI.
+Qual a consequência de um chamado permanecer no status 'Cadastrado' por mais de uma semana?,Exclusão automática pelo sistema.
+O que o status 'Ag. Execução' indica sobre a fila do TI?,O chamado está pendente e aguarda a definição de um atendente.
+"No status 'Ag. Execução', quem da equipe de TI tem permissão para realizar ações?",Qualquer pessoa da equipe de TI.
+O status 'Ag. Escalasoft' indica que o chamado foi direcionado a quais profissionais externos?,Desenvolvedores e analistas da Escalasoft.
+Quem é o único responsável por realizar ações diretas em chamados no status 'Ag. Escalasoft'?,Atendentes da Escalasoft.
+O que significa o status 'Ag. Homologação'?,O chamado foi respondido e aguarda validação do solicitante.
+Qual a finalidade do status 'Ag. Aprovação de Orçamento'?,Aguardar que a GH aprove o custo de uma modificação solicitada.
+Sob qual condição um atendente altera o status para 'Ag. Informações Complementares'?,Quando o chamado está incompleto ou faltam detalhes para o atendimento.
+O que diferencia o status 'Em Execução' do status 'Ag. Execução'?,"No 'Em Execução', o chamado já possui um atendente responsável definido."
+Qual o destino de um chamado após o status 'Cancelado'?,Interrupção definitiva do atendimento por ser considerado desnecessário.
+Quando ocorre a transição de um chamado para o status 'Encerrado'?,Quando o solicitante aprova a solução enviada pelo TI.
+O que motiva a mudança para o status 'Retorno de Homologação'?,A rejeição da resposta do atendente pelo solicitante.
+O que o status 'Retorno da Escalasoft' sinaliza para a equipe de TI?,"O fornecedor devolveu o chamado com uma solução, orçamento ou dúvida."
+Para que serve o status 'Ag. Modificações'?,Reformular tecnicamente a solicitação antes de enviá-la à Escalasoft.
+Qual status o chamado assume imediatamente após o solicitante responder sobre um orçamento?,Retorno de aprovação de orçamento.
+Qual campo permite identificar quando o HD foi alterado para sua situação atual?,Data de mudança de status.
+"No campo 'Recurso', o que indica o preenchimento com o nome do seu usuário?",O HD aguarda uma atualização sua ou está sem atendente definido.
+O que informa o campo 'Solução' em chamados já respondidos?,A data em que o chamado foi solucionado.
+Qual campo define o prazo máximo para a equipe interna de TI concluir o atendimento?,SLA TI.
+O que o campo 'SLA Escalasoft' monitora?,O prazo para o primeiro atendimento realizado pela Escalasoft.
+O campo 'Homologar até' estabelece um prazo para qual ator do processo?,O solicitante.
+Qual informação é exibida no campo 'Observação' na tela de visualização geral?,O último texto de atendimento ou encaminhamento registrado.
+Qual a função do campo 'Solicitação'?,Exibir a descrição inicial detalhada pelo solicitante.
+Como é definida a ação de 'Atendimento' no sistema?,"Forma de trocar mensagens, alterar status e enviar a solução do HD."
+Qual o propósito principal do processo de 'Encaminhamento'?,Direcionar o chamado para a Escalasoft ou para a fila de um atendente.
+Quais usuários têm permissão para utilizar o recurso de 'Ocorrência'?,Apenas a equipe de TI.
+Cite uma modificação que pode ser feita via 'Ocorrência' pela equipe de TI.,Ajuste de SLA (ou severidade/categoria).
+Em quais tipos de chamados o 'Campo complementar' é ativado?,Chamados abertos via WhatsApp.
+O que deve ser consultado na aba 'Anexo' para facilitar a compreensão de uma solução?,"Arquivos como prints, vídeos ou manuais orientativos."
+Por que a Escalasoft não possui SLA para chamados de 'Melhorias'?,Porque tratam-se de sugestões que o fornecedor decide se desenvolverá ou não.
+Qual a principal tarefa do TI enquanto um chamado está 'Ag. Escalasoft'?,Acompanhar e cobrar o atendimento correto dentro do prazo do fornecedor.
+O que o solicitante deve fazer após rejeitar uma resposta em 'Ag. Homologação'?,Justificar o motivo da rejeição no sistema.
+Qual tipo específico de encaminhamento deve ser usado para aprovar um custo?,RETORNO ORÇAMENTO.
+Quais os comandos finais para salvar um encaminhamento de orçamento?,Clicar em Gravar e Liberar.
+Qual evidência é necessária se a aprovação do orçamento for feita por alguém que não é gestor?,Anexo de print ou e-mail comprovando a ciência do gestor do setor.
+"No caso de reprovação de orçamento, o que o TI faz antes de encerrar o chamado?",Solicita o cancelamento do orçamento junto à Escalasoft.
+Como o solicitante retorna informações pedidas pelo TI no status 'Ag. Informações Complementares'?,Incluindo um encaminhamento do tipo 'RETORNO DE INFORMAÇÕES COMPLEMENTARES'.
+"Após o envio das informações complementares pelo usuário, qual o novo status do HD?",Ag. Execução.
+O que indica o recurso 'atualizar.sistema' em um chamado 'Em Execução'?,A solução aguarda o download e instalação da nova versão do sistema.
+Quem possui autoridade para reverter o cancelamento de um chamado?,Apenas a equipe de TI.
+Qual a utilidade de manter chamados no status 'Encerrado'?,Manutenção do histórico de solicitações.
+O chamado no status 'Cadastrado' é considerado uma _____ para a equipe de TI?,Edição (não é uma pendência de atendimento).
+O que acontece se o solicitante aprovar uma resposta mas depois precisar reabrir o chamado?,Ele deve solicitar a reabertura para a equipe de TI.
+Qual a função do botão '+' na aba de encaminhamento?,Incluir um novo encaminhamento no chamado.
+Por que o TI coloca chamados em 'Ag. Modificações'?,Para documentar tecnicamente a necessidade antes do envio ao fornecedor.
+"Em chamados de 'Necessidades' da Escalasoft, o que precede o tempo de desenvolvimento?","Desenho da solução, orçamento e aprovação do orçamento."
+Qual o status de um chamado que voltou do TI após uma rejeição de homologação?,Retorno de homologação.
+Onde o usuário deve descrever o motivo de aceitar ou recusar um orçamento?,No campo 'Observação' do encaminhamento.
+O que caracteriza o atendimento de um chamado cuja aprovação de orçamento foi negada?,Atendimento informando que a necessidade não será atendida por falta de aprovação de custos.
+Chamados originados por qual canal possuem 'Campo complementar'?,WhatsApp.
+Quem é responsável por gerenciar a agenda de atualizações de versão do sistema?,Equipe de TI.
+Qual o primeiro passo para acompanhar um chamado?,Verificar o seu status atual.
+O que o campo 'Data' (sem prefixo) indica no cabeçalho do chamado?,A data de abertura do chamado.
+Status: Cadastrado. Ação do TI: _____.,Nenhuma (TI não visualiza pendência).
+Status: Ag. Homologação. Ação do Solicitante: _____.,Aprovar ou rejeitar a resposta.
+O encaminhamento permite solicitar aprovação de orçamento a quem?,Ao solicitante ou ao responsável pelo setor do solicitante.
+O que deve constar obrigatoriamente no anexo de aprovação de orçamento?,O número do chamado correspondente à aprovação.
+"Verdadeiro ou Falso: No status 'Ag. Execução', o TI pode responder sem definir um atendente fixo.",Verdadeiro.
+O status _____ indica que o chamado está sendo atendido especificamente por alguém do TI.,Em execução.
+Como o TI comunica ao solicitante que o HD está pendente por falta de clareza?,Alterando o status para 'Ag. Informações Complementares'.
+"Qual aba é utilizada para incluir evidências de erros, como capturas de tela?",Anexo.
+O status 'Retorno de Homologação' cai em qual fila?,Fila de pendências do TI (similar ao Ag. Execução).
+Status: Ag. Escalasoft. O que envolve a entrega final?,Desenvolvimento e instalação da versão com a implementação.
+O campo 'Observação' traz o último texto de atendimento ou _____.,Encaminhamento.
+Quem analisa a resposta técnica enviada pela Escalasoft antes de passá-la ao usuário?,A equipe de TI.
+Para que serve o 'Tempo de segurança' mencionado no fluxo da Escalasoft?,Período de espera antes de baixar e instalar uma nova versão com implementações.
+O que deve ser feito se um HD encerrado precisar de nova análise?,Solicitar a reabertura pela equipe de TI.
+Qual a diferença entre Atendimento e Ocorrência quanto à visibilidade?,Ocorrências são de uso exclusivo e interno da equipe de TI.
+O solicitante pode visualizar as ações tomadas no status 'Ag. Modificações'?,"Não, nesse status somente o TI pode mexer no chamado."
+Como o TI descobre quais chamados precisam de atualização de sistema?,Filtrando chamados 'Em Execução' com o recurso 'atualizar.sistema'.
+O que indica a ausência de um atendente no campo 'Recurso'?,Que o chamado ainda não possui um responsável definido.
+Status: Ag. Homologação. Prazo: _____.,Homologar até.
+Onde o TI busca informações de imagens quando o HD vem do WhatsApp?,Campo complementar.
+Por que o TI realiza testes no status 'Retorno da Escalasoft'?,Para garantir que a solução/orientação do fornecedor funciona antes de responder ao usuário.
+O status _____ é o destino de chamados cujos orçamentos foram aprovados ou rejeitados pelo usuário.,Retorno de aprovação de orçamento.
+Qual ação o TI toma se o solicitante rejeita o encerramento por falta de aprovação e apresenta novas provas?,Dá seguimento ao atendimento para reavaliação.
+A equipe de TI utiliza o 'Encaminhamento' para enviar chamados para a _____ de um atendente.,Fila.
