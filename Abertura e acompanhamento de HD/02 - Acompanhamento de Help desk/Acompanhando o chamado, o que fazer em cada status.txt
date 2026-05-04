@@ -1,0 +1,59 @@
+1 - Se o seu nome de usuário estiver preenchido no campo 'Recurso', o que isso geralmente indica?
+(false) Que você é o atendente do TI responsável pela solução definitiva.
+(false) Que o sistema Escalasoft assumiu o atendimento automaticamente.
+(true) Que o chamado está aguardando uma atualização ou ação de sua parte.
+(false) Que o chamado foi encerrado e movido para o seu histórico pessoal.
+
+2 - Qual é a principal função do status 'Ag. Homologação'?
+(false) Aguardar que a equipe de TI defina um atendente para o caso.
+(true) Sinalizar que o chamado foi respondido e aguarda a validação do solicitante.
+(false) Indicar que o TI está realizando testes internos antes de responder.
+(false) Marcar chamados que precisam de um novo orçamento da Escalasoft.
+
+3 - O que deve ser anexado ao chamado se a aprovação do orçamento for feita por alguém que não é o gestor do departamento?
+(true) Um print de e-mail onde o gestor aprova o custo mencionando o número do chamado.
+(false) Apenas uma observação escrita de que o gestor está ciente.
+(false) Uma cópia do contrato social da empresa.
+(false) Uma foto do crachá do gestor responsável.
+
+4 - Qual a diferença fundamental entre 'Atendimento' e 'Encaminhamento' no sistema?
+(true) O encaminhamento é mais completo, permitindo direcionar o chamado para filas ou solicitar orçamentos.
+(false) O atendimento é usado pela Escalasoft e o encaminhamento apenas pelo TI interno.
+(false) O atendimento serve apenas para anexar arquivos, enquanto o encaminhamento é para texto.
+(false) Não há diferença real, são apenas nomes diferentes para a mesma função de mensagem.
+
+5 - Em qual aba do sistema ficam os dados das imagens enviadas quando um chamado é aberto via WhatsApp?
+(false) Aba Anexo.
+(false) Campo Solução.
+(true) Campo Complementar.
+(false) Aba Ocorrência.
+
+6 - O que significa o campo 'SLA TI'?
+(true) O prazo máximo que a equipe de TI tem para atender ao chamado.
+(false) O custo estimado para o atendimento daquela solicitação.
+(false) A data em que o chamado foi migrado para a Escalasoft.
+(false) O tempo total que o sistema Escalasoft ficou fora do ar.
+
+7 - Quando um chamado é aberto com poucas informações, qual procedimento o atendente costuma adotar?
+(false) Adivinha o problema e tenta aplicar uma solução genérica.
+(false) Cancela o chamado imediatamente por falta de dados.
+(false) Envia para a Escalasoft para que eles descubram o que falta.
+(true)d. Muda o status para 'Ag. Informações Complementares' e solicita detalhes.
+
+8 - O que ocorre no status 'Retorno da Escalasoft'?
+(true) A equipe de TI analisa a resposta do fornecedor para realizar testes e então responder ao solicitante.
+(false) A Escalasoft assume o controle do servidor do cliente para aplicar a correção.
+(false) O chamado é enviado automaticamente para homologação do usuário final.
+(false) O chamado é encerrado automaticamente com a resposta técnica.
+
+9 - Em casos de 'Sugestões de Melhoria' enviadas à Escalasoft, o que o documento afirma sobre o SLA?
+(false) O SLA é definido pelo próprio solicitante no momento da abertura.
+(true) Não existe SLA, pois são sugestões que o fornecedor pode ou não desenvolver.
+(false) O SLA é dobrado em relação a chamados de incidentes comuns.
+(false) Existe um SLA rígido de 48 horas para implementação.
+
+10 - O que indica o campo 'Status e data de mudança de status'?
+(false) O histórico de todas as pessoas que já visualizaram o chamado.
+(false) O histórico de todas as pessoas que já visualizaram o chamado.
+(false) A data prevista para o término de todos os chamados abertos no mês.
+(true) O nome da situação atual do HD e quando ele foi alterado para essa situação.

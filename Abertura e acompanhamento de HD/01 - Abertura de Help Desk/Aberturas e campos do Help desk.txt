@@ -1,0 +1,59 @@
+1 - De acordo com as normas da empresa, em qual situação o acionamento da equipe de TI não precisa ser feito exclusivamente por meio de um chamado (Help Desk)?
+(true) Em casos de falhas gerais na rede ou sistemas que impossibilitem a abertura do chamado.
+(false) Sempre que o usuário julgar que o problema é de severidade crítica. 
+(false) Quando o problema envolver a instalação de um novo computador para diretoria.
+(false) Quando for necessário solicitar um orçamento urgente para compra de licenças.
+
+2 - Ao preencher o formulário no Escalasoft, o que define a categoria 'Software diversos'?
+(true) Suporte ou melhorias em sistemas como Pacote Office e Antivírus.
+(false) Qualquer erro que ocorra dentro dos módulos de ERP ou WMS.
+(false) Problemas relacionados exclusivamente à conexão de internet e navegadores.
+(false) Apenas solicitações de novos softwares que ainda não foram comprados pela GH.
+
+3 - Na categoria 'Sistema Escalasoft', qual é a principal diferença entre o tipo de ocorrência 'Necessidade' e 'Sugestão de melhoria'?
+(false) A 'Necessidade' é gratuita, enquanto a 'Sugestão de melhoria' sempre gera custos de desenvolvimento.
+(false) Ambas possuem o mesmo prazo de entrega (SLA), mas apenas a 'Sugestão' exige aprovação da diretoria.
+(false) A 'Necessidade' é usada para corrigir erros de sistema, e a 'Sugestão' para solicitar treinamentos.
+(true) A 'Necessidade' refere-se à criação de novas funções, enquanto a 'Sugestão' é para algo opcional sem prazo de entrega.
+
+4 - Se um usuário encontrar um erro ao tentar liberar uma ordem de armazenagem, qual opção deve selecionar no campo 'Sistema'?
+(true) WMS - Armazenagem
+(false) TMS - Transporte
+(false) ERP - Corporativo
+(false) OMS - Pedido
+
+5 - Como é definida a severidade 'Crítica' de um chamado de acordo com o guia de abertura?
+(false) Sempre que houver necessidade de troca de um periférico quebrado, como um mouse.
+(true) Quando toda a empresa ou um setor está parado, ou há risco de penalizações judiciais e multas.
+(false) Quando um relatório de uso não frequente apresenta dados incorretos.
+(false) Quando um único usuário não consegue imprimir um documento importante no dia.
+
+6 - O que acontece com um chamado que permanece no status 'Cadastrado' por mais de uma semana?
+(false) Ele é movido automaticamente para a fila de execução do TI.
+(false) A severidade é aumentada automaticamente para 'Urgente'.
+(true) Ele é excluído automaticamente pelo sistema.
+(false) O sistema envia um alerta para o gestor do setor solicitante.
+
+7 - No acompanhamento de chamados, o que indica o campo 'Recurso'?
+(true) O nome do atendente ou usuário responsável pelo chamado no momento.
+(false) O valor financeiro disponível para resolver aquele problema.
+(false) A quantidade de tempo restante no SLA de atendimento.
+(false) A lista de peças necessárias para o conserto de um equipamento.
+
+8 - Qual status o chamado assume quando o TI responde com uma solução e aguarda a validação do usuário?
+(false) Encerrado
+(false) Em Execução
+(true) Ag. Homologação
+(false) Retorno de Homologação
+
+9 - Para aprovar um orçamento enviado pela Escalasoft, o usuário deve realizar qual ação técnica no chamado?
+(false) Enviar um novo 'Olá' para o robô Guga no WhatsApp informando o número do chamado.
+(true) Adicionar um encaminhamento do tipo 'RETORNO ORÇAMENTO' com a observação da aprovação.
+(false) Mudar a severidade do chamado para 'Crítica' para acelerar o processo.
+(false) Apenas escrever 'Aprovado' no campo de Descrição e salvar.
+
+10 - O que significa quando um chamado está com o recurso 'atualizar.sistema' e status 'Em Execução'?
+(true) A correção/implementação já foi feita pela Escalasoft, mas depende da instalação de uma nova versão do sistema pela TI.
+(false) A correção/implementação já foi feita pela Escalasoft, mas depende da instalação de uma nova versão do sistema pela TI.
+(false) O usuário deve atualizar o seu próprio Windows para que o erro pare de ocorrer.
+(false) O técnico está formatando o servidor principal da GH.
