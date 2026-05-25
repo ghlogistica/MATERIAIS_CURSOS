@@ -1,0 +1,57 @@
+1 - Qual é a finalidade principal do processo de recebimento físico descrito no material?
+(false) Realizar o pagamento imediato ao fornecedor após a emissão da nota.
+(true) Declarar que a mercadoria ou serviço foi entregue e que a nota fiscal já está disponível para lançamento.
+(false) Solicitar um novo orçamento para o fornecedor antes de fechar o pedido.
+(false) Cadastrar um novo fornecedor no sistema de compras da empresa.
+
+2 - Em qual tela e aba do sistema deve-se iniciar a geração do recebimento físico?
+(false) Tela de 'Fornecedores', aba 'Histórico'.
+(false) Tela de 'Notas Fiscais', aba 'Importação'.
+(true) Tela de 'Ordem de Compra', aba 'Item'.
+(false) Tela de 'Estoque', aba 'Entradas'.
+
+3 - Ao preencher o formulário de recebimento, quais informações devem ser selecionadas ou preenchidas pelo usuário?
+(false) Data de validade do produto, lote e temperatura de armazenamento.
+(false) Nome do motorista e valor do frete pago em dinheiro.
+(false) Código do transportador e placa do veículo de entrega.
+(true) Tipo de recebimento, tipo de documento fiscal e observação de uso interno.
+
+4 - Após preencher o formulário e validar as informações, qual ação o usuário deve realizar para iniciar o fluxo de aprovação?
+(false) Clicar em 'Aprovar'.
+(false) Clicar em 'Salvar Rascunho'.
+(false) Clicar em 'Finalizar'.
+(true) Clicar em 'Liberar'.
+
+5 - Sobre o processo de aprovação do recebimento físico, quem deve aprovar primeiro?
+(false) O almoxarife.
+(false) O responsável do setor fiscal.
+(true) O gestor de compras.
+(false) O diretor financeiro.
+
+6 - Quantos níveis de aprovação o recebimento físico deve percorrer antes da finalização?
+(false) 4 níveis.
+(false) 1 nível.
+(true) 2 níveis.
+(false) 3 níveis.
+
+7 - O que ocorre imediatamente após a obtenção das duas aprovações necessárias?
+(false) O fornecedor recebe o pagamento de forma instantânea via transferência bancária.
+(true) O processo de compra se finaliza e passa a ser responsabilidade do setor fiscal dar seguimento.
+(false) A mercadoria é automaticamente devolvida ao fornecedor.
+(false) Um novo pedido de compra é gerado automaticamente para o mesmo item.
+
+8 - Ao gerar o recebimento físico, o que o usuário deve fazer na aba 'Item' da ordem de compra?
+(false) Alterar o preço unitário do item para coincidir com a nota fiscal.
+(true) Selecionar o item que está sendo recebido e clicar em 'Gerar recebimento'.
+(false) Adicionar novos itens que não estavam na ordem original.
+(false) Excluir o item para que ele não apareça mais na lista de pendências.
+
+9 - Considere a afirmação: 'O setor fiscal é o primeiro a aprovar o recebimento físico para garantir a validade dos impostos antes do gestor de compras'. Esta afirmação é:
+(true) Falsa
+(false) Verdadeira
+
+10 - Qual é a condição prévia para que o recebimento físico seja gerado, de acordo com a definição inicial do texto?
+(false) O pagamento ao fornecedor já ter sido compensado no banco.
+(true) A mercadoria/serviço ter sido entregue e a nota fiscal estar disponível.
+(false) A ordem de compra estar em status de 'Rascunho'.
+(false) O fornecedor ter enviado um e-mail de confirmação de envio (shipment notice).
