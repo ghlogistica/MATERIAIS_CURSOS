@@ -1,0 +1,59 @@
+1 - Qual setor da GH é responsável por realizar as cotações com os fornecedores após a geração de uma requisição de compra?
+(false) Gestoria de área
+(false) Setor financeiro
+(false) Setor solicitante
+(true) Setor de compras
+
+2 - Existem duas maneiras de iniciar uma cotação no sistema. Qual das opções abaixo descreve uma dessas formas?
+(false) Pela aba de 'Aprovações Pendentes'
+(false) Através do e-mail direto do fornecedor
+(true) Pela tela de 'Gerar cotação de compra'
+(false) Pela tela de 'Ordem de Compra'
+
+3 - O que o usuário deve fazer imediatamente após clicar em 'Gerar cotação' para os itens selecionados?
+(false) Enviar a requisição para o gestor
+(false) Preencher o valor unitário dos produtos
+(true) Selecionar os fornecedores e o tipo de cotação
+(false) Emitir a nota fiscal de entrada
+
+4 - Onde o usuário deve inserir o valor unitário do produto durante o preenchimento da cotação?
+(false) Na tela de 'Aprovações Pendentes'
+(false) No campo de observações gerais da requisição
+(true) Na aba 'Item' dentro do formulário da cotação
+(false) Diretamente na listagem de fornecedores
+
+5 - Após preencher todos os valores e condições, qual ação o comprador deve realizar para encaminhar a cotação para aprovação?
+(false) Clicar em 'Gerar Ordem de Compra' imediatamente
+(false) Apenas clicar em 'Gravar' e fechar a tela
+(false) Excluir as cotações dos fornecedores que perderam
+(true) Abrir a cotação desejada e clicar em 'Selecionar'
+
+6 - O que é obrigatório para o gestor da área caso ele decida recusar uma cotação selecionada?
+(false) Reiniciar todo o processo de cadastro de fornecedores
+(true) Descrever o motivo da recusa
+(false) Cancelar a requisição de compra original
+(false) Anexar um novo orçamento em PDF
+
+7 - Além de recusar, qual outra ação o gestor pode realizar durante o processo de análise de cotações?
+(true) Selecionar ele mesmo a cotação que julgar melhor
+(false) Gerar a ordem de compra sem passar pelo setor de compras
+(false) Alterar o preço unitário enviado pelo fornecedor
+(false) Finalizar a entrada da mercadoria no estoque
+
+8 - Quais dados financeiros, além da condição e forma de pagamento, podem ser solicitados no formulário de cotação em alguns casos?
+(false) Balanço patrimonial
+(false) Código Swift para transferências internacionais
+(true) Conta bancária
+(false) Limite de crédito do fornecedor
+
+9 - Qual é o procedimento correto para registrar os preços recebidos dos fornecedores no sistema?
+(true) Ir na aba 'Item' dentro da cotação, preencher o valor unitário do produto e clicar em 'Gravar'.
+(false) Digitar o valor total da nota fiscal na tela de 'Aprovação do Gestor'.
+(false) Enviar o valor por chat interno para que o solicitante valide o preço antes da gravação.
+(false) Anexar o PDF do orçamento e deixar que o sistema faça o reconhecimento óptico de caracteres (OCR).
+
+10 - Quais informações devem ser selecionadas imediatamente após clicar em 'Gerar cotação' na tela de seleção de itens?
+(false) A justificativa para a compra e o centro de custo responsável pelo pagamento.
+(false) A data de entrega final e o código de barras do produto a ser adquirido.
+(true) Os fornecedores que participarão da cotação e o tipo de cotação desejado.
+(false) O valor unitário de cada item e a transportadora responsável pelo frete.

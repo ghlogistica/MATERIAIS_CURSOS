@@ -1,0 +1,59 @@
+1 - Qual é o primeiro passo prático para iniciar o cadastro de uma nova requisição de compra no sistema?
+(false) Preencher o campo 'Filial' na tela de consulta
+(false) Acessar a aba 'Complemento II' diretamente
+(false) Clicar em 'Liberar' para abrir os campos
+(true) Clicar no botão 'NOVO' ou utilizar o atalho Alt+N
+
+2 - No formulário de requisição, qual é a finalidade do campo 'Necessidade'?
+(false) Descrever o motivo detalhado da compra e sua justificativa
+(false) Registrar a data em que a requisição foi aberta pelo sistema
+(true) Informar a data em que o produto deve estar disponível conforme a urgência
+(false) Listar os produtos que precisam ser adquiridos urgentemente
+
+3 - Sobre o preenchimento do 'Fornecedor' na aba 'Complemento II', o que o manual estabelece?
+(false) É preenchido apenas pelo gestor no momento da aprovação
+(false) É obrigatório para que a requisição possa ser gravada
+(true) É um campo opcional, preenchido se houver necessidade de definir previamente quem cotar
+(false) Deve ser preenchido automaticamente pelo sistema com base no histórico
+
+4 - Onde o usuário deve definir a 'Unidade de negócio' e o 'Centro de custo' vinculados à compra?
+(true) Na aba 'Centro de custo' localizada dentro do formulário do item
+(false) No campo 'Histórico' do formulário principal
+(false) Na aba 'Complemento II' da requisição
+(false) Apenas na tela de aprovação do gestor de compras
+
+5 - Qual é a função do campo 'Aplicação' no preenchimento dos itens da requisição?
+(false) Registrar o login do usuário que irá aplicar o produto
+(false) Indicar o software onde o produto será utilizado
+(false) Descrever as características técnicas e físicas do produto
+(true) Definir o destino do produto, como insumo, consumo ou geração de estoque
+
+6 - O que ocorre se um gestor clicar em 'Recusar' durante o processo de aprovação?
+(false) A requisição segue automaticamente para o gestor de compras
+(false) O sistema redireciona o usuário para o preenchimento de um novo item
+(true) O sistema solicitará obrigatoriamente a descrição do motivo da recusa
+(false) A requisição é excluída permanentemente sem aviso
+
+7 - Qual é a ordem correta do fluxo de aprovação após a requisição ser liberada?
+(true) Gestor da área solicitante e depois Gestor do setor de compras
+(false) Aprovação automática pelo sistema se os valores forem baixos
+(false) Diretoria financeira e depois Almoxarifado
+(false) Gestor de compras e depois Gestor da área solicitante
+
+8 - Qual é o status da requisição após passar com sucesso por todas as aprovações de gestores?
+(false) Liberada para Recebimento
+(true) Ag. Gerar Cotação
+(false) Pedido de Compra Criado
+(false) Finalizada
+
+9 - Caso o usuário precise incluir múltiplos produtos em uma mesma requisição, como deve proceder?
+(false) Criar uma nova requisição completa para cada produto individual
+(false) Adicionar os nomes dos produtos separados por vírgula no campo 'Histórico'
+(true) Clicar em 'Gravar', 'Fechar' e repetir a inclusão de itens através do botão + antes de 'Liberar'
+(false) Listar todos os produtos no campo 'Observação' do primeiro item
+
+10 - Onde devem ser descritas as características técnicas e a ficha técnica do produto desejado?
+(false) Na aba 'Complemento II' do item
+(true) No campo 'Observação' dentro da aba 'Item'
+(false) No campo 'Tipo' do formulário inicial
+(false) No campo 'Complemento' da requisição

@@ -1,0 +1,50 @@
+O que representa a 'Ordem de Compra' no processo de suprimentos?,A efetivação da compra junto a um fornecedor.
+Qual é a situação da entrega no momento em que a ordem de compra é gerada?,A empresa está no aguardo da entrega da mercadoria.
+"Para iniciar a criação de uma Ordem de Compra, qual tela deve ser acessada?",'Gerar ordem de compra'.
+"Antes de clicar em 'Gerar ordem de compra', o que deve ser localizado e selecionado pelo usuário?",A cotação que se deseja transformar em ordem de compra.
+"No formulário de geração da OC, quais são os dois campos que o usuário pode interagir?",Tipo de ordem de compra e observação.
+Qual ação finaliza o preenchimento do formulário de geração da ordem de compra?,Clicar no botão 'OK'.
+"Logo após ser gerada, qual é o status de pendência da ordem de compra?",Aguardando aprovação do gestor de compras.
+Quem possui a autoridade para aprovar uma ordem de compra no sistema?,O gestor de compras.
+O que o sistema realiza automaticamente assim que o gestor aprova a compra?,Dispara um e-mail de confirmação ao fornecedor e ao setor de compras.
+Qual dado cadastral do fornecedor é indispensável para o envio automático do e-mail de confirmação?,O endereço de e-mail informado no cadastro.
+Qual tela permite ao usuário visualizar e acompanhar todas as ordens geradas no sistema?,'Ordem de compra'.
+Qual a principal responsabilidade do setor de compras durante o período entre a aprovação e a entrega?,Realizar o acompanhamento de rastreio junto ao fornecedor.
+Em quais situações específicas o setor de compras deve realizar cobranças ao fornecedor?,Em casos de atrasos na entrega ou divergências na compra.
+Qual ação deve ser tomada no sistema no momento em que a mercadoria física chega à empresa?,Lançar o recebimento físico do item na ordem de compra.
+Qual departamento ou colaborador é responsável por registrar o recebimento no sistema?,A área que receber a mercadoria física.
+"A ordem de compra é a _____ da compra, indicando o fechamento com o fornecedor.",efetivação
+Termo: Rastreio de Compra,Definição: Acompanhamento contínuo junto ao fornecedor para garantir o cumprimento de prazos e especificações.
+"Processo: Após gerar a OC, o documento fica aguardando a _____ do gestor.",aprovação
+"No formulário de geração, o campo _____ é preenchido caso existam informações adicionais relevantes.",observação
+Para quem o sistema envia o e-mail de confirmação além do fornecedor?,Para o setor de compras.
+Em qual etapa do processo o usuário deve 'lançar o recebimento físico do item'?,Quando a mercadoria for recebida.
+Qual é o primeiro passo prático na tela 'Gerar ordem de compra'?,Localizar a cotação desejada.
+A aprovação do gestor de compras é o gatilho para qual funcionalidade de comunicação?,O disparo automático de e-mails de confirmação.
+Sob quais condições o fornecedor NÃO receberá o e-mail automático de confirmação?,Se não houver um endereço de e-mail informado em seu cadastro.
+O acompanhamento de rastreio serve para evitar quais tipos de problemas na entrega?,Atrasos e divergências.
+Como o usuário acessa os detalhes de uma ordem para registrar a entrada de produtos?,Abrindo a ordem de compra correspondente na tela de recebimento.
+A tela 'Ordem de compra' (diferente da de geração) tem qual finalidade principal?,Acompanhar e seguir com as ordens de compra já geradas.
+O preenchimento do 'tipo de ordem de compra' ocorre em qual momento do fluxo?,Durante o preenchimento do formulário de geração da OC.
+A efetivação da compra ocorre quando determinamos que _____ com algum fornecedor.,fechamos
+Qual o objetivo de 'lançar o recebimento físico' no sistema?,Registrar que a mercadoria da ordem de compra foi efetivamente entregue.
+"Na hierarquia do processo, quem executa o acompanhamento de rastreio?",O setor de compras.
+O que deve ser feito com a cotação antes de clicar no comando de geração da OC?,Ela deve ser selecionada no sistema.
+O e-mail enviado ao fornecedor serve para _____ a compra.,confirmar
+Qual o destino da Ordem de Compra imediatamente após o clique em 'OK' no formulário inicial?,Fila de aprovação do gestor de compras.
+O registro do recebimento físico deve ser feito obrigatoriamente pela _____.,área que receber a mercadoria
+Quantos destinatários padrão recebem o e-mail de confirmação de compra?,Dois (fornecedor e setor de compras).
+"Na tela 'Gerar ordem de compra', a localização da cotação é feita de forma _____.",manual (localizar e selecionar)
+A etapa de rastreio visa especificamente cobrar o fornecedor em casos de _____.,atrasos e divergências
+Onde o usuário visualiza o histórico de todas as ordens já geradas?,Na tela 'Ordem de compra'.
+Qual documento antecede obrigatoriamente a geração da Ordem de Compra no fluxo descrito?,A cotação.
+O campo 'tipo de ordem de compra' é preenchido em qual interface?,No formulário que abre ao gerar a ordem de compra.
+O envio de e-mail é condicionado à _____ do gestor.,aprovação
+O recebimento físico do item é o passo final executado na _____.,ordem de compra
+Qual a consequência de uma cotação não ser selecionada na tela de geração?,O sistema não permitirá clicar em 'Gerar ordem de compra'.
+O acompanhamento de rastreio é uma tarefa de caráter _____.,preventivo e corretivo (cobrança de atrasos/divergências)
+A ordem de compra permanece em espera até que ocorra o _____.,recebimento da mercadoria
+Quem é o responsável por decidir se a compra gerada será de fato disparada ao fornecedor?,O gestor de compras (através da aprovação).
+O lançamento do recebimento físico vincula a entrada da mercadoria a qual documento?,À respectiva Ordem de Compra.
+Para que serve o botão 'Gerar ordem de compra' após selecionar a cotação?,Para abrir o formulário de definição do tipo de OC e observações.
+A confirmação da compra via e-mail ocorre de forma _____ após a aprovação.,automática (disparada pelo sistema)

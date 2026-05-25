@@ -1,0 +1,50 @@
+Qual setor da GH é responsável por realizar as cotações após a geração da requisição?,Setor de compras.
+Onde as cotações são registradas dentro do sistema da GH?,Dentro das requisições de compra.
+Quais são as duas formas de iniciar uma cotação de compra?,Pela requisição de compra ou pela tela 'Gerar cotação de compra'.
+"Ao iniciar pela requisição de compra, qual aba deve ser acessada primeiro?",Aba de item.
+Qual botão deve ser clicado na aba de item da requisição para começar a cotação?,'Gerar cotação'.
+O que é possível visualizar na tela 'Gerar cotação de compra'?,Itens de requisição de compra aguardando gerar cotação.
+"Após selecionar os itens na tela 'Gerar cotação de compra', qual o próximo passo?",Clicar em 'Gerar cotação'.
+Quais são as duas escolhas necessárias na tela que abre após clicar em gerar cotação?,Fornecedores e tipo de cotação.
+Qual botão confirma a escolha de fornecedores e do tipo de cotação?,'OK'.
+Quais os dois caminhos para localizar as cotações pendentes?,Dentro da requisição de compra ou pela tela 'Cotação de compra'.
+Como se abre o formulário de uma cotação específica na lista de pendências?,Dando um duplo clique na cotação.
+"Além da forma de pagamento, o que deve ser preenchido no formulário da cotação?",Condição de pagamento.
+Em quais situações a conta bancária deve ser preenchida no formulário da cotação?,Em alguns casos específicos.
+Em qual aba da cotação o valor unitário do produto deve ser inserido?,Aba 'Item'.
+Qual o nome do campo onde se insere o preço do produto na aba 'Item'?,Valor unitário.
+Qual comando deve ser clicado após preencher o valor unitário para salvar a informação?,'Gravar'.
+O processo de preenchimento de valores deve ser feito para quais fornecedores?,Para todos os fornecedores selecionados na requisição.
+O que deve ser feito após obter todos os valores de cotação e cumprir os requisitos?,Selecionar a melhor cotação.
+Como o usuário formaliza a escolha da melhor proposta no sistema?,Abrindo a cotação e clicando em 'Selecionar'.
+Qual o status da cotação após o clique no botão 'Selecionar'?,Aguardando aprovação do gestor da área.
+Quem é o responsável por aprovar ou recusar a cotação selecionada?,O gestor da área solicitante.
+Em qual tela o gestor realiza o procedimento de validação das cotações?,Tela de aprovações pendentes.
+O que o gestor deve descrever obrigatoriamente se decidir recusar uma cotação?,O motivo da recusa.
+"Em caso de recusa, o que o gestor pode fazer para agilizar o processo de escolha?",Selecionar ele mesmo a cotação que considera melhor.
+Qual processo se inicia imediatamente após a aprovação de uma das cotações?,Processo de gerar ordem de compra.
+"Dentro do sistema, as cotações são registradas dentro das _____ de compra.",requisições
+"Para iniciar a cotação via requisição, selecione o item na aba item e clique em '_____'.",Gerar cotação
+"Na tela 'Gerar cotação de compra', localize os itens, selecione-os e clique em '_____'.",Gerar cotação
+"Ao gerar a solicitação, o sistema abre uma tela para escolher os _____ e o tipo de cotação.",fornecedores
+Dê um _____ em uma das cotações para abrir o formulário de preenchimento.,duplo clique
+"Na aba 'Item' da cotação, preencha o _____ do produto e clique em 'Gravar'.",valor unitário
+Termo: Valor Unitário,Definição: Preço por unidade do produto a ser preenchido na aba 'Item' de cada fornecedor.
+Termo: Aprovações Pendentes,Definição: Tela utilizada pelo gestor para validar a seleção da melhor cotação.
+Termo: Ordem de Compra,Definição: Documento gerado no sistema após a aprovação final de uma cotação.
+Qual a primeira etapa do setor de compras após o solicitante gerar a requisição?,Realizar as cotações com os fornecedores.
+Quantas maneiras existem de iniciar uma cotação no sistema GH?,Duas maneiras.
+Qual o critério para que o gestor possa selecionar uma cotação diferente da enviada?,Estar em conformidade com os requisitos necessários.
+Onde o comprador visualiza as cotações pendentes sem entrar em uma requisição específica?,Na tela de 'Cotação de compra'.
+O preenchimento da conta bancária na cotação é obrigatório em todos os casos?,"Não, apenas em alguns casos."
+Qual ação finaliza o trabalho do comprador antes da cotação ir para o gestor?,Clicar em 'Selecionar' na melhor cotação.
+O que deve ser preenchido após a condição de pagamento na cotação?,Forma de pagamento.
+O gestor da área solicitante acessa sua tela de aprovações para realizar _____ ou _____ da cotação.,aprovação ou recusa
+Processo: Abrir requisição -> Aba item -> Selecionar item -> 'Gerar cotação'. Qual o próximo passo?,Escolher fornecedores e tipo de cotação.
+Verdadeiro ou Falso: O gestor pode alterar a cotação selecionada pelo comprador no momento da recusa.,Verdadeiro.
+Verdadeiro ou Falso: É necessário preencher o valor unitário em todas as cotações de todos os fornecedores antes da seleção.,Verdadeiro.
+Qual o objetivo da tela 'Gerar cotação de compra' em relação aos itens listados?,Permitir a localização e seleção de itens que aguardam o início do processo de cotação.
+A escolha do fornecedor ocorre antes ou depois de preencher o valor unitário?,Antes.
+O clique em 'Gravar' na aba Item serve para salvar o quê?,O valor unitário do produto preenchido.
+Qual a condição necessária para seguir para o processo de 'gerar ordem de compra'?,Ter uma das cotações aprovadas pelo gestor.
+Qual o papel da aba 'Item' na requisição de compra no início do fluxo?,Permitir a seleção do item específico para o qual se deseja gerar cotação.

@@ -1,0 +1,54 @@
+Onde se inicia formalmente o processo de compra segundo o documento?,Na requisição de compras.
+Qual área é responsável por criar uma requisição de compra?,A área que necessita da compra de um ou mais produtos.
+Qual o comando de atalho para abrir o formulário de cadastro de uma nova requisição?,Alt+N
+"Além do atalho Alt+N, qual botão inicia a criação de uma nova requisição?",O botão NOVO.
+"No formulário de requisição, o que define o campo 'Filial'?",A unidade que precisa da aquisição do produto.
+O campo 'Tipo' no formulário de requisição deve ser preenchido de acordo com qual critério?,De acordo com o setor que está realizando a requisição.
+Qual informação o usuário deve inserir no campo 'Data' da requisição?,A data de abertura da requisição.
+O que determina a data a ser preenchida no campo 'Necessidade'?,A urgência da compra.
+Quais são os dois elementos que devem constar no campo 'Histórico'?,Uma breve descrição da solicitação e seu nível de urgência.
+Para que serve o campo 'Observação' no formulário principal da requisição?,Para descrever o motivo da requisição e da urgência definida.
+Qual ação deve ser realizada após o preenchimento dos campos iniciais da requisição?,Clicar em 'Gravar'.
+O que deve ser inserido no campo 'Requisitante' da aba 'Complemento II'?,O login do usuário requisitante da compra.
+Qual o objetivo do campo 'Pessoa requisitante' na aba 'Complemento II'?,Identificar o cadastro de pessoa do solicitante da compra.
+Sob qual condição o campo 'Fornecedor' na aba 'Complemento II' deve ser preenchido?,Caso seja necessário definir previamente o fornecedor a ser cotado.
+Qual a obrigatoriedade do preenchimento do fornecedor na requisição de consumo?,O preenchimento é opcional.
+Como o usuário inicia a adição de itens em uma requisição?,Clicando no símbolo + na aba Item.
+O que deve ser selecionado no campo 'Produto/Serviço' do formulário de itens?,O produto a comprar ou o serviço a contratar.
+Qual a função do campo 'Complemento' dentro do formulário de item?,Servir como campo para uma breve descrição opcional.
+"O campo _____ define se o item é um insumo, consumo ou se gera estoque.",Aplicação
+Cite dois exemplos de opções disponíveis no campo 'Aplicação' do item.,Insumo e consumo.
+Qual campo do item deve conter as características e a ficha técnica do produto?,O campo Observação.
+Como deve ser tratada a aba 'Complemento II' do item da requisição?,Deve ser mantida conforme o preenchimento automático do sistema.
+Quais são as três informações obrigatórias na aba 'Centro de custo' do item?,"Unidade de negócio, centro de custo e filial responsável pela conta financeira."
+"Após preencher os dados do item e clicar em 'Gravar', qual o próximo passo?",Clicar em 'Fechar'.
+O que o usuário deve fazer caso precise incluir múltiplos produtos na mesma requisição?,Seguir as instruções de inclusão de itens repetidamente.
+Qual botão encerra a edição da requisição e a envia para a próxima fase?,O botão 'Liberar'.
+"Após o clique em 'Liberar', qual o status imediato da requisição?",Aguardando aprovação do gestor da área.
+Onde o gestor deve ir para processar as requisições pendentes?,Na tela de aprovações.
+Como o gestor abre uma aprovação específica na tela de aprovações?,Dando um duplo-clique na aprovação pendente.
+Quais são as duas opções de decisão do gestor ao revisar uma requisição?,'Aprovar' ou 'Recusar'.
+Sob qual circunstância o gestor deve utilizar a opção 'Recusar'?,Caso a requisição não esteja correta ou seja indevida.
+O que o sistema exige obrigatoriamente quando uma requisição é recusada?,A descrição do motivo da recusa.
+Quem é a segunda pessoa a aprovar a requisição após o gestor da área solicitante?,O gestor do setor de compras.
+Qual a principal diferença entre a primeira e a segunda aprovação da requisição?,Apenas o usuário que realiza a aprovação.
+Qual o estado final da requisição após ser aprovada pelo gestor de compras?,Ag. Gerar Cotação.
+"No preenchimento do item, o campo 'Quantidade' serve para informar _____.",a quantidade necessária do produto ou serviço.
+Qual aba contém os campos 'Requisitante' e 'Pessoa requisitante'?,Aba Complemento II da requisição de consumo.
+O que deve ser feito após preencher o motivo da recusa de uma requisição?,Clicar em OK.
+"Na aba 'Centro de custo', qual filial deve ser informada?",A filial responsável pela conta financeira.
+"Para adicionar itens, o usuário deve navegar até a aba _____.",Item
+Qual campo deve ser utilizado para registrar a urgência da compra no formulário principal?,Histórico.
+O que ocorre imediatamente após o gestor da área aprovar a requisição?,Ela cai para aprovação do gestor do setor de compras.
+O campo 'Produto/Serviço' permite selecionar apenas bens materiais?,"Não, ele também permite selecionar serviços para contratação."
+Em qual aba se define a Unidade de Negócio do item?,Aba Centro de custo.
+O preenchimento do login do usuário é feito no campo _____.,Requisitante
+Onde se localiza o botão para definir a aplicação do produto (insumo/consumo)?,No formulário de item da requisição.
+O que acontece se o usuário clicar em 'Liberar' sem adicionar nenhum item?,"O documento não descreve essa possibilidade, focando na inclusão de itens antes da liberação."
+Qual o destino de uma requisição que foi aprovada por todos os níveis hierárquicos?,O setor de cotação (Status: Ag. Gerar Cotação).
+O campo 'Histórico' deve ser longo e detalhado?,"Não, deve ser uma breve descrição da solicitação."
+A ficha técnica do produto deve ser inserida em qual parte da requisição?,Na observação do item.
+O sistema permite avançar o processo se a recusa for enviada sem motivo?,"Não, o sistema solicita obrigatoriamente um motivo."
+O campo 'Data' é preenchido com a data de entrega desejada?,"Não, ele é preenchido com a data de abertura da requisição."
+A aprovação do gestor de compras ocorre antes ou depois da aprovação do gestor da área?,Ocorre depois.
+O que deve ser feito após localizar uma aprovação pendente na tela de aprovações?,Verificar o preenchimento antes de decidir por aprovar ou recusar.

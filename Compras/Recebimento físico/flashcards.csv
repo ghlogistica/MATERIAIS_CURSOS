@@ -1,0 +1,50 @@
+O que o recebimento físico declara em relação à entrega do fornecedor?,Declara que a mercadoria ou serviço foi entregue pelo fornecedor.
+Qual a condição da nota fiscal no momento do recebimento físico?,A nota do processo já está disponível para ser lançada.
+Em qual tela do sistema deve-se abrir a ordem de compra para iniciar o recebimento?,Na tela de ordem de compra.
+Qual aba da tela de ordem de compra contém as opções para gerar o recebimento?,Aba 'Item'.
+O que deve ser feito após selecionar o item da ordem na aba 'Item'?,Clicar em 'Gerar recebimento'.
+Quais são as duas seleções de tipo obrigatórias no formulário de recebimento?,Tipo de recebimento e tipo de documento fiscal.
+Para que finalidade serve o campo de observação no formulário de recebimento?,Para uso interno.
+O preenchimento da observação de uso interno é obrigatório em todos os processos?,"Não, deve ser preenchida apenas caso necessário."
+Qual o comando executado após o preenchimento inicial do formulário de recebimento?,Clicar em 'OK'.
+O que o usuário deve fazer imediatamente após clicar em 'OK' no formulário?,Validar as informações do recebimento.
+Qual botão deve ser clicado para enviar o recebimento para o fluxo de aprovação?,Botão 'Liberar'.
+Quantos níveis de aprovação compõem o processo de recebimento físico?,Dois níveis.
+Quem é o responsável pelo primeiro nível de aprovação do recebimento?,O gestor de compras.
+Quem é o responsável pelo segundo nível de aprovação do recebimento?,O responsável do setor fiscal.
+O que ocorre com o processo de compra após as duas aprovações serem concluídas?,O processo de compra se finaliza.
+"Após a finalização do processo de compra, qual setor assume a responsabilidade?",O setor fiscal.
+Termo: Recebimento Físico,Definição: Declaração de entrega de mercadoria ou serviço e posse da nota para lançamento.
+O recebimento físico aplica-se apenas a mercadorias tangíveis?,"Não, aplica-se também à entrega de serviços."
+Onde se localiza o botão 'Gerar recebimento'?,Na aba 'Item' dentro da tela de ordem de compra.
+Qual a sequência correta de aprovadores no recebimento físico?,Primeiro o gestor de compras e depois o responsável fiscal.
+Cloze: O recebimento físico indica que já temos a ____ do processo para lançar.,nota
+"Cloze: No formulário, selecione o tipo de recebimento de acordo com o ____ que está sendo feito.",processo
+"Cloze: Após a liberação, o recebimento físico passa por um processo de ____ em 2 níveis.",aprovação
+Qual ação finaliza a participação do setor de compras no fluxo de recebimento?,A aprovação do gestor de compras no primeiro nível.
+O que deve ser selecionado na aba 'Item' antes de gerar o recebimento?,O item da ordem que está sendo recebido.
+Qual o gatilho para o início da responsabilidade do setor fiscal no seguimento do processo?,A obtenção das duas aprovações do recebimento físico.
+Em que momento a validação das informações deve ocorrer?,Após o preenchimento do formulário e antes de clicar em 'Liberar'.
+Cloze: Selecione o tipo de documento ____ no formulário de recebimento.,fiscal
+Cloze: O responsável do setor ____ deverá realizar a segunda aprovação.,fiscal
+O recebimento físico pode ser liberado sem passar pela validação de informações?,"Não, as informações devem ser validadas antes de clicar em 'Liberar'."
+Onde deve ser inserida a observação de uso interno?,No formulário que abre após clicar em 'Gerar recebimento'.
+O processo de recebimento físico é iniciado em qual documento base?,Na ordem de compra.
+Qual o papel do responsável fiscal na hierarquia de aprovação?,Atuar como o segundo nível de aprovação.
+O que acontece imediatamente após o usuário clicar em 'Liberar'?,O processo segue para aprovação do gestor de compras.
+A aprovação do gestor de compras é suficiente para finalizar o processo de compra?,"Não, é necessária também a aprovação do responsável fiscal."
+Cloze: O recebimento físico declara que a mercadoria ou serviço foi ____ pelo fornecedor.,entregue
+Como o sistema trata a observação inserida no formulário de recebimento?,Como uma observação de uso interno.
+Qual o estado do processo após o clique no botão 'Liberar'?,Em processo de aprovação.
+Qual profissional deve aprovar o recebimento físico logo após a liberação pelo usuário?,O gestor de compras.
+"Cloze: Para gerar o recebimento físico, é necessário abrir a ordem de compra na ____ de mesmo nome.",tela
+O que o usuário deve conferir na etapa de validação?,As informações do recebimento gerado.
+Qual a relação entre o recebimento físico e o lançamento da nota fiscal?,O recebimento declara que a nota já está disponível para ser lançada.
+"Após a aprovação fiscal, quem passa a ser responsável por dar seguimento ao processo?",O setor fiscal.
+Quais dados do documento fiscal devem ser informados no formulário?,O tipo de documento fiscal.
+Em qual etapa o usuário seleciona o 'tipo de recebimento'?,Ao preencher o formulário após clicar em 'Gerar recebimento'.
+O recebimento físico é um pré-requisito para qual ação do setor fiscal?,Dar seguimento ao processo (lançamento e processamento fiscal).
+O que deve ser feito se não houver necessidade de observação interna no formulário?,Deixar o campo em branco e clicar em 'OK'.
+Quem inicia o fluxo de aprovação de dois níveis?,"O usuário, ao clicar no botão 'Liberar'."
+Onde o item a ser recebido é selecionado?,Na lista de itens dentro da aba 'Item' da ordem de compra.
+Qual a consequência imediata de clicar em 'OK' no formulário inicial?,A abertura das informações do recebimento para validação.

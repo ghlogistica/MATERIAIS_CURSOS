@@ -1,0 +1,59 @@
+1 - O que representa, tecnicamente, a efetivação de uma ordem de compra no sistema?
+(false) A fase inicial de pesquisa de preços e seleção de possíveis parceiros comerciais.
+(false) O registro contábil automático do pagamento efetuado ao fornecedor externo.
+(true) O fechamento da negociação com um fornecedor e a expectativa de entrega da mercadoria.
+(false) A solicitação de cancelamento de um pedido por falta de estoque no fornecedor.
+
+2 - Qual é o procedimento necessário para iniciar a criação de uma ordem de compra?
+(false) Enviar um e-mail interno ao gestor solicitando a abertura de um novo número de pedido.
+(false) Digitar manualmente todos os itens e preços em um novo formulário em branco na tela principal.
+(true) Localizar a cotação desejada na tela 'Gerar ordem de compra', selecioná-la e clicar no botão de geração.
+(false) Aguardar que o fornecedor envie a confirmação de recebimento da cotação para que o botão seja habilitado.
+
+3 - Ao preencher o formulário de geração da ordem de compra, quais campos são mencionados como disponíveis para preenchimento?
+(false) O prazo de validade da cotação e os dados bancários do fornecedor.
+(false) A quantidade de parcelas e o desconto financeiro concedido pelo gestor.
+(true) O tipo de ordem de compra e o campo de observação.
+(false) Apenas o nome do comprador responsável e a data de entrega prevista.
+
+4 - O que ocorre com a ordem de compra imediatamente após o clique em 'OK' no formulário de geração?
+(false) Ela é finalizada e o status muda para 'Recebido fisicamente'.
+(true) Ela fica aguardando a aprovação do gestor de compras.
+(false) O sistema solicita que o fornecedor confirme a disponibilidade em estoque via chat.
+(false) Ela é enviada instantaneamente para o e-mail do fornecedor selecionado.
+
+5 - Quais são os destinatários do e-mail automático disparado pelo sistema após a aprovação do gestor?
+(true) O fornecedor e o setor de compras.
+(false) Apenas o almoxarifado responsável pelo recebimento.
+(false) Apenas o setor financeiro e o gestor de compras.
+(false) O diretor da empresa e o cliente final.
+
+6 - Qual é a condição fundamental para que o fornecedor receba o e-mail de confirmação da compra?
+(false) Possuir um certificado digital ativo vinculado à ordem de compra.
+(false) Estar logado no sistema no momento em que o gestor aprova o pedido.
+(false) Ter respondido à cotação em menos de 24 horas úteis.
+(true)  um endereço de e-mail informado em seu cadastro no sistema.
+
+7 - Para que serve a tela denominada 'Ordem de compra'?
+(false) Para comparar preços de diferentes fornecedores antes de fechar o negócio.
+(false) Exclusivamente para o cancelamento de notas fiscais com erro.
+(false) Para cadastrar novos fornecedores que ainda não possuem cotação.
+(true)  Para acompanhar e visualizar todas as ordens de compra geradas no sistema.
+
+8 - Quais ações o setor de compras deve realizar durante o período de rastreio junto ao fornecedor?
+(false) Aprovar novamente a ordem de compra a cada 48 horas para evitar que expire.
+(true)  Realizar o acompanhamento e cobrar o fornecedor em casos de atrasos ou divergências.
+(false) Alterar os preços da ordem de compra caso o dólar apresente variação no período.
+(false) Emitir a nota fiscal de venda para o cliente final da mercadoria.
+
+9 - Qual é o procedimento correto a ser adotado no sistema no momento do recebimento da mercadoria?
+(false) O fornecedor deve acessar o sistema da empresa e marcar o pedido como entregue.
+(true)  A área que receber o item deve abrir a ordem de compra e lançar o recebimento físico.
+(false) O sistema deve encerrar a ordem de compra automaticamente via GPS do caminhão de entrega.
+(false) A ordem de compra deve ser excluída para dar lugar à entrada da nota fiscal.
+
+10 - Qual destas afirmações sobre o fluxo de aprovação está correta de acordo com o manual?
+(false) O gestor de compras é o único responsável por localizar a cotação e gerar a ordem.
+(false) A aprovação do gestor é opcional se o valor da compra for abaixo de um limite pré-estabelecido.
+(true)  A geração da ordem de compra não implica em envio imediato ao fornecedor devido à necessidade de aprovação gestora.
+(false) O fornecedor deve aprovar a ordem de compra antes que o gestor interno a visualize.
