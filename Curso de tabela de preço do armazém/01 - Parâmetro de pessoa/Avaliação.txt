@@ -1,0 +1,59 @@
+Qual parâmetro é indispensável para sinalizar ao sistema que o cliente deve ter cobranças individuais geradas?
+(true)Obrigatório gerar faturamento do armazém individual
+(false)Permitir gerar documento do faturamento para outra pessoa
+(false)Obrigatório gerar faturamento do armazém individual por cliente
+(false)Gerar documento do faturamento do armazém por nr. pedido de entrada
+
+Ao selecionar o parâmetro para considerar entradas pendentes no cálculo de estoque, o que o sistema passa a incluir?
+(false)Produtos descartados no recebimento
+(true)Entradas em andamento
+(false)Apenas saídas confirmadas
+(false)Pedidos de venda futuros
+
+Se uma empresa deseja que cada número de pedido de entrada resulte em um documento de faturamento separado, qual parâmetro deve ser ativado?
+(false)Permitir gerar documento do faturamento para outra pessoa
+(true)Gerar documento do faturamento do armazém por nr. pedido de entrada
+(false)Obrigatório gerar faturamento do armazém individual por número de pedido
+(false)Obrigatório gerar faturamento do armazém individual por serviço
+
+O parâmetro 'Obrigatório gerar faturamento do armazém individual por cliente' é utilizado para qual finalidade específica?
+(false)Agrupar todos os clientes em uma única fatura mensal
+(true)Gerar um faturamento por cliente.
+(false)Bloquear o faturamento de clientes inadimplentes
+(false)Substituir o CNPJ do faturamento pelo CPF do motorista
+
+Em que situação o parâmetro 'Permitir gerar documento do faturamento para outra pessoa' é útil?
+(false)Para evitar a geração de nota fiscal eletrônica
+(false)Quando o armazém decide pagar as custas do cliente
+(false)Para dividir a conta entre vários sócios da mesma empresa
+(true)Quando o faturamento é para um cliente, mas o destinatário do documento deve ser outro CNPJ
+
+O parâmetro 'Obrigatório gerar faturamento do armazém individual por nat. de mercadoria' foca em qual critério de separação?
+(true)Natureza de mercadoria
+(false)Peso total da carga
+(false)Região de entrega da mercadoria
+(false)Data de validade dos produtos
+
+Qual é a principal consequência de não ativar o parâmetro 'Obrigatório gerar faturamento do armazém individual' em um cliente?
+(false)O estoque do cliente será zerado automaticamente
+(false)O cliente será excluído do sistema
+(true)O sistema pode não gerar faturamentos de cobranças individuais para esse cliente
+(false)Todas as mercadorias serão doadas para o armazém
+
+Como o sistema reage se o parâmetro 'Obrigatório gerar faturamento do armazém individual por número de pedido' estiver marcado?
+(true)Gera um faturamento específico para cada número de pedido
+(false)Agrupa todos os pedidos do mês em um único documento
+(false)Exige que o número do pedido seja inserido manualmente a cada minuto
+(false)Cancela pedidos que não possuem faturamento individual
+
+A configuração 'Obrigatório gerar faturamento do armazém individual por nat. de operação' é voltada para:
+(false)Garantir que apenas operações lucrativas sejam faturadas
+(true)Separar cobranças conforme a natureza de operação fiscal ou logística
+(false)Agrupar todas as naturezas de operação em um único boleto
+(false)Separar cobranças por turno de trabalho (diurno/noturno)
+
+O que acontece com o faturamento de estoque se o parâmetro sobre 'entradas pendentes' NÃO estiver selecionado?
+(false)O faturamento será calculado pelo triplo do valor
+(false)As entradas pendentes serão deletadas automaticamente
+(true)Entradas em andamento não serão consideradas como estoque para o faturamento
+(false)O sistema emitirá um erro crítico e parará de funcionar

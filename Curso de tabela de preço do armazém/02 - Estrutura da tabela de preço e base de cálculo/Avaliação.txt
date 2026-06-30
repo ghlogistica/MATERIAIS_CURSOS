@@ -1,0 +1,47 @@
+Qual é a função do campo 'Origem' dentro da aba 'Complemento' na base de cálculo?
+(false)Indicar o fornecedor original da mercadoria que está sendo armazenada.
+(true)Determinar a fonte da informação para o cálculo, como estoque ou lançamentos de serviços.
+(false)Estabelecer se a cobrança será feita em moeda nacional ou estrangeira.
+(false)Definir o fuso horário em que o saldo de estoque será considerado para faturamento.
+
+Como o sistema calcula a cobrança quando a 'Frequência de cobrança' é diária em um período de faturamento quinzenal de pico de unitizador?
+(false)Ele aplica o valor da tabela apenas sobre a diferença entre o primeiro e o último dia da quinzena.
+(false)Ele cobra apenas uma única vez o valor da tabela, independentemente de ser quinzenal ou mensal.
+(false)Ele soma o saldo de todos os dias e divide pela média aritmética da quinzena.
+(true)Ele multiplica a quantidade de pico identificada pelo número de dias do período (15) e depois pelo valor da tabela.
+
+Ao configurar uma cobrança de 'Ad valorem', qual deve ser o 'Tipo de conversão' selecionado para que o cálculo percentual seja correto?
+(false)Dividir por 1000.
+(false)Multiplicar por 0,01.
+(false)Quantidade personalizada.
+(true)Dividir por 100.
+
+O campo 'Horário do saldo' é aplicável em qual contexto de base de cálculo?
+(false)Para definir o horário em que a nota fiscal de serviço será emitida.
+(true)Apenas para bases de cálculo com origem no estoque.
+(false)Apenas para serviços de transporte e frete.
+(false)Para limitar o horário de entrada de mercadorias no armazém.
+
+Qual é a finalidade da aba 'Grupo info conferência' na estrutura da base de cálculo?
+(false)Definir a equipe de conferentes que realizará a contagem do estoque.
+(false)Agrupar clientes que possuem o mesmo processo de conferência.
+(false)Listar os erros de conferência que não serão cobrados do cliente.
+(true)Limitar quais grupos de informação de conferência podem ser associados àquela base de cálculo.
+
+Se um serviço deve ser cobrado por tonelada, mas o sistema registra o peso em quilos, como configurar o 'Tipo de conversão'?
+(false)Utilizar a 'Variável de dedução' para subtrair o excesso de peso.
+(false)Manter sem conversão, pois o sistema identifica a unidade automaticamente.
+(true)Selecionar a opção de dividir por 1000.
+(false)Selecionar a opção de multiplicar por 1000.
+
+O que define se os campos de valor unitário, valor mínimo e valor máximo estarão disponíveis para preenchimento na tabela de preço?
+(false)O nível de permissão do usuário no sistema Escalasoft.
+(true)A configuração da própria Base de Cálculo.
+(false)O tipo de mercadoria (perecível ou seca) que está sendo cadastrada.
+(false)A data de validade da tabela de preço.
+
+Em quais situações o campo 'Quantidade de dia' deve ser preenchido?
+(false)Quando se deseja aplicar um desconto por dias de atraso no pagamento.
+(true)Quando a 'Frequência de cobrança' for definida como 'Variável'.
+(false)Apenas quando a origem da informação for 'Serviço'.
+(false)Sempre que o faturamento for mensal.
