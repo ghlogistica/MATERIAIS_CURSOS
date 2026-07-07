@@ -1,0 +1,59 @@
+Qual é a principal vantagem de utilizar a automatização por operação de armazenagem em vez da automatização pela tabela de preço?
+(false)Reduz a necessidade de intervenção da equipe de TI na criação de fórmulas SQL.
+(false)É o único método que permite gerar serviços de entrada e saída simultaneamente.
+(true)Permite a aplicação de regras mais específicas que não são suportadas pela tabela de preço.
+(false)Garante que todos os serviços sejam lançados obrigatoriamente com valor financeiro.
+
+Para configurar uma nova automatização, qual caminho o usuário deve seguir dentro da operação de armazenagem?
+(true)Aba 'Serviço' e clicar no sinal de mais (+).
+(false)Aba 'Geral' e marcar o checklist 'Automatização Ativa'.
+(false)Menu 'Ferramentas' e selecionar 'Automatizar Operação'.
+(false)Aba 'Configurações' e clicar em 'Novo Serviço'.
+
+O que acontece se o usuário selecionar a abrangência 'Natureza de mercadoria' na configuração do serviço?
+(false)O serviço será lançado apenas para produtos considerados perigosos.
+(false)O sistema impedirá o lançamento se houver naturezas de mercadorias diferentes na mesma ordem.
+(false)O sistema gerará um único serviço consolidando todos os itens da ordem.
+(true)O sistema gerará um serviço para cada natureza de mercadoria dos produtos separados na ordem.
+
+Quais são as duas opções disponíveis no campo 'Evento da ordem'?
+(false)Ao criar ou Ao editar.
+(true)Ao liberar ou Ao encerrar.
+(false)No faturamento ou Na expedição.
+(false)Ao iniciar conferência ou Ao finalizar conferência.
+
+Sobre a variável 22 no campo 'Quantidade', qual é a instrução correta para o usuário?
+(false)Ela deve ser selecionada diretamente para cálculos de inventário geral.
+(false)Ela deve ser utilizada sempre que a abrangência for 'Por carregamento'.
+(true)Ela funciona apenas como um título agrupador e deve ser expandida para exibir as opções reais.
+(false)Ela representa a quantidade total de itens sem considerar o tipo de operação.
+
+Ao configurar uma operação de SAÍDA, qual variável deve ser selecionada no primeiro subnível da variável 22?
+(false)22.01 – ENTRADA
+(false)22.03 – TRANSFERÊNCIAS
+(true)22.02 – SAIDAS
+(false)22.99 – OUTROS
+
+Em que circunstância o campo 'Recebimento' fica ativo para edição?
+(false)Quando o parâmetro 'Não cobrar serviço' estiver desmarcado.
+(false)Sempre que houver mais de um recebimento vinculado à mesma ordem.
+(true)Apenas quando a abrangência selecionada for 'Recebimento'.
+(false)Sempre que o tipo de operação for 'Entrada'.
+
+Quem é responsável por criar as variáveis utilizadas nos campos 'Recebimento' e 'Carregamento'?
+(false)O sistema gera essas variáveis automaticamente baseando-se no histórico de uso.
+(false)O gerente de logística via parametrização visual.
+(false)O usuário final através de fórmulas de Excel.
+(true)A equipe de TI, através de comandos na linguagem SQL.
+
+Qual é a função do campo 'Natureza de operação' na automatização do serviço?
+(false)Identificar se o produto é matéria-prima ou produto acabado.
+(false)Alterar automaticamente a prioridade da ordem de armazenagem.
+(true)Limitar quais ordens de armazenagem terão o serviço calculado com base na natureza da operação da ordem.
+(false)Definir se o serviço é tributado ou isento.
+
+O que ocorre se o parâmetro 'Liberar automaticamente' não for marcado?
+(false)O serviço será cancelado automaticamente se não for aprovado em 24 horas.
+(false)O serviço não será lançado no sistema.
+(false)A quantidade do serviço será zerada por segurança.
+(true)O sistema lançará o serviço, mas ele ficará com status pendente de liberação.

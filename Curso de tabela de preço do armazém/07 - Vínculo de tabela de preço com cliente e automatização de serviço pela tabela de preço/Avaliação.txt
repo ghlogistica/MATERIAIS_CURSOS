@@ -1,0 +1,59 @@
+Em qual tela do sistema deve ser realizado o vínculo da tabela de preço com o cliente?
+(false)Ordem de Armazenagem
+(false)Tabela de Preço
+(true)Pessoa
+(false)Configurações de Faturamento
+
+Qual deve ser a abrangência confirmada no cadastro do cliente para que a tabela de preço possa ser vinculada?
+(false)Fornecedor
+(true)Cliente
+(false)Global
+(false)Transportadora
+
+Ao incluir uma nova tabela, qual 'Tipo de tabela de preço' deve ser selecionado conforme as instruções?
+(true)Cobrança por armazenagem de mercadorias (novo)
+(false)Cobrança de Movimentação Fixa
+(false)Tabela de Frete e Distribuição
+(false)Serviços Gerais de Logística
+
+Por que o campo 'Data' no vínculo da tabela de preço deve ser preenchido com atenção redobrada?
+(false)Porque o sistema não permite salvar o cadastro sem uma data futura.
+(false)Porque a data deve obrigatoriamente coincidir com o dia da gravação.
+(false)Porque define a data de validade final da tabela de preço.
+(true)Porque determina o início da utilização e pode precisar ser retroativa.
+
+Após gravar a inclusão da tabela de preço no cliente, qual é a próxima ação obrigatória para validar a alteração?
+(true)Liberar
+(false)Imprimir
+(false)Excluir
+(false)Fechar a tela
+
+Se o cadastro do cliente foi 'voltado' (reaberto) para a inclusão da tabela, o que deve ser feito ao final?
+(false)Aguardar a sincronização automática de 24 horas.
+(false)Criar um novo código para o cliente.
+(false)Reiniciar o servidor do sistema.
+(true)Liberar o cadastro do cliente novamente.
+
+O que a automatização de serviço pela tabela de preço permite fazer?
+(false)Gerar notas fiscais de venda sem intervenção humana.
+(true)Automatizar o lançamento de serviços conforme regras da tabela de preço.
+(false)Excluir tabelas de preço que não estão sendo utilizadas.
+(false)Alterar o valor dos produtos em estoque automaticamente.
+
+Para que a automatização funcione, qual deve ser a 'Base de cálculo' selecionada?
+(true)Serviço executado com alguma quantidade definida (exceto quantidade de serviços).
+(false)Peso bruto total da carga.
+(false)Quantidade total de serviços prestados no mês.
+(false)Valor fixo mensal por contrato.
+
+Qual aba (tab page) é aberta pelo sistema quando uma base de cálculo compatível com automação é selecionada?
+(false)Impostos e Tributação
+(true)Gerar serviço automaticamente
+(false)Faturamento Direto
+(false)Histórico de Lançamentos
+
+No campo 'Tipo de operação' da automação, o que é definido?
+(false)O nome do funcionário que executará o serviço.
+(true)Em qual tipo de ordem o serviço será lançado (entrada, saída, etc.).
+(false)O prazo de pagamento concedido ao cliente.
+(false)Se o serviço é tributado ou isento.

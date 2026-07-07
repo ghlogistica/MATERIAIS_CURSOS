@@ -1,0 +1,59 @@
+Qual é a principal finalidade de realizar o registo de uma operação de armazenagem no sistema?
+(false)Gerar relatórios de faturação externa para transportadoras subcontratadas.
+(true)Subdividir as operações de um mesmo cliente, como distinguir entre retalho e e-commerce.
+(false)Substituir o registo principal do cliente no sistema para efeitos fiscais.
+(false)Limitar o acesso de utilizadores específicos a determinados stocks do armazém.
+
+No separador 'Complemento', quais são os campos fundamentais que devem ser definidos ao criar uma nova operação?
+(false)Faturação automática, prioridade de carga e peso do produto.
+(true)Nome da operação, seleção do cliente e observações.
+(false)Código de barras, tipo de embalagem e unidade de medida.
+(false)Filial da ordem, CFOP e tipo de carga.
+
+Se o tipo de ordem de saída de armazenagem for definido como 'Venda', quais CFOPs serão gerados pelo sistema?
+(false)5906 ou 6906.
+(false)5102 ou 6102.
+(true)5907 ou 6907.
+(false)5949 ou 6949.
+
+Para que serve a funcionalidade de 'Item padrão' no registo da operação?
+(false)Bloquear a saída de qualquer produto que não tenha as mesmas dimensões deste item.
+(false)Calcular automaticamente o custo de armazenagem com base no valor deste item.
+(false)Definir o único produto que pode ser armazenado nesta operação específica.
+(true)Servir de modelo para a criação automática de novos produtos durante a importação de ficheiros XML.
+
+O parâmetro 'Reservar endereço por tipo de área interna' tem como objetivo principal:
+(true)Permitir que bloqueios de reserva de endereço sejam respeitados apenas por tipos de área específicos, como Picking ou Pré-picking.
+(false)Desativar completamente a função de reserva de endereços no armazém.
+(false)Garantir que um endereço de Picking nunca seja utilizado para produtos de e-commerce.
+(false)Obrigar o operador a utilizar sempre o mesmo endereço para o mesmo produto, independentemente da área.
+
+Qual é a função do status 'Ag faturamento de venda' adicionado pelo parâmetro 'Controlar o faturamento de venda na ordem de saída'?
+(false)Sinalizar que o armazém deve emitir uma fatura de prestação de serviços ao cliente.
+(false)Indicar que a mercadoria já foi entregue e aguarda a confirmação de receção.
+(true)Indicar que a ordem está pronta, mas aguarda a Nota Fiscal (NF) de venda do cliente para prosseguir.
+(false)Bloquear a separação da mercadoria até que o pagamento seja confirmado pelo sistema bancário.
+
+Se o parâmetro 'Não efetuar processo de expedição na separação de mercadoria' estiver ativo, o que ocorre após a separação?
+(false)O sistema obriga à realização de uma segunda conferência manual no desktop.
+(false)A mercadoria fica bloqueada no cais de saída até que uma expedição manual seja criada.
+(false)O sistema gera automaticamente etiquetas de envio para todas as transportadoras.
+(true)A ordem pode ser encerrada diretamente, sem gerar embalagem ou processos de embarque.
+
+Sobre a integração com webcam no processo de embalagem, é correto afirmar que:
+(true)Permite capturar e guardar uma foto da embalagem como anexo no momento da finalização pelo desktop.
+(false)É utilizada para realizar a leitura de códigos de barras bidimensionais (QRCode) dos itens.
+(false)Serve para monitorizar o desempenho em tempo real do operador de embalagem.
+(false)Apenas funciona se o operador estiver a utilizar um coletor de dados com câmara integrada.
+
+Qual a condição necessária para que o parâmetro 'Gerar documento de devolução automaticamente' possa ser utilizado?
+(false)A operação deve ser obrigatoriamente do tipo 'Fulfillment'.
+(true)Um dos parâmetros que define o momento de emissão (antes de separar, embalar ou carregar) deve estar marcado.
+(false)O cliente deve possuir um saldo credor superior ao valor total da mercadoria.
+(false)É necessário que não existam transportadoras vinculadas à ordem de saída.
+
+O que caracteriza o parâmetro 'Separar do pré-picking e pulmão apenas unitizador completo'?
+(true)A restrição de que a separação nestas áreas não pode fracionar paletes ou caixas padrão (unitizadores).
+(false)A necessidade de que o cliente envie apenas pedidos que correspondam exatamente a uma palete.
+(false)O bloqueio de qualquer separação manual, exigindo o uso de empilhadores automáticos.
+(false)A obrigatoriedade de utilizar apenas um tipo de embalagem para toda a ordem de saída.

@@ -1,0 +1,59 @@
+Ao realizar o cadastro inicial de uma tabela de preço, qual tipo deve ser selecionado obrigatoriamente?
+(false)Faturamento de serviços logísticos
+(false)Tabela de frete e transporte
+(true)Armazenagem de mercadorias (novo)
+(false)Gestão de estoque permanente
+
+Qual é a consequência técnica de ativar as opções de agrupamento por pedido de entrada ou saída na tabela de preço?
+(false)Redução do espaço ocupado no banco de dados do sistema
+(false)Impedimento de gerar relatórios individuais para o cliente
+(false)Necessidade de criar um faturamento físico para cada pedido
+(true)Aumento considerável no tempo de processamento do faturamento
+
+Para que serve o campo 'Ordem' no cadastro de um item da lista de preço?
+(false)Identificar o número do pedido de compra associado ao serviço
+(false)Organizar a prioridade de saída das mercadorias do estoque
+(true)Definir a sequência de cálculo dos serviços durante o faturamento
+(false)Classificar os itens por ordem alfabética no relatório final
+
+Qual é a função do campo 'Base de cálculo' no cadastro de itens?
+(true)Determinar qual informação ou métrica será usada para realizar o cálculo do valor a cobrar
+(false)Registrar a conta contábil onde o valor será lançado
+(false)Indicar a alíquota de imposto que incidirá sobre o faturamento
+(false)Informar o valor monetário unitário do serviço prestado
+
+O que acontece se o valor calculado de um serviço for R$500,00, mas o campo 'Valor mínimo' estiver preenchido com R$1000,00?
+(false)O sistema gerará um erro e impedirá a gravação do faturamento
+(true)O sistema considerará  R%1000,00  como o valor a cobrar
+(false)O sistema cobrará a soma dos dois valores (R$1500,00)
+(false)O serviço não será cobrado por não atingir o limite
+
+Em que situação o campo 'Grupo de armazenagem' é utilizado como filtro na tabela de preço?
+(false)Para agrupar clientes que pertencem a uma mesma holding econômica
+(false)Para definir se o produto é perigoso ou resfriado
+(false)Para separar o faturamento por filial de destino
+(true)Quando se deseja cobrar valores diferenciados dependendo das configurações do endereço físico de armazenagem
+
+O que representa o campo 'Dias livre' em um serviço baseado em estoque?
+(false)Dias em que o armazém não funcionará para faturamento
+(false)O número de dias que o faturamento pode ficar em atraso sem multa
+(true)Um período de carência a partir da data de entrada em que não há cobrança de armazenagem
+(false)O prazo máximo que a mercadoria pode permanecer no armazém
+
+Para que serve o parâmetro 'Imposto (aplicar sobre o total dos documentos gerados)'?
+(false)Para descontar o imposto do valor bruto da nota fiscal
+(false)Para enviar automaticamente a guia de imposto para o cliente
+(false)Para calcular o imposto individualmente para cada etiqueta gerada
+(true)Para que o cálculo do imposto seja baseado na soma dos demais serviços já calculados
+
+Qual a funcionalidade da aba 'Composição' no cadastro do item?
+(false)Listar os materiais físicos (insumos) usados na embalagem
+(true)Determinar o valor de cada etapa interna que compõe um pacote de serviço
+(false)Configurar as alíquotas de impostos federais e estaduais
+(false)Definir quais produtos podem ser armazenados juntos
+
+O campo 'Grupo info. Conferência' na aba 'Novo faturamento' controla qual aspecto do sistema?
+(true)A descrição e o nível de detalhamento do serviço no relatório de faturamento
+(false)A ordem de carregamento dos caminhões na expedição
+(false)A permissão de acesso dos conferentes ao estoque
+(false)O agrupamento de produtos por data de validade

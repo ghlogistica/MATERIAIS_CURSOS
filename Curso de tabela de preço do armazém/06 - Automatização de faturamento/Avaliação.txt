@@ -1,0 +1,59 @@
+Em que situação deve-se utilizar a automatização de faturamento por operação de armazenagem?
+(true)Quando os faturamentos precisam ser gerados por ordem de armazenagem.
+(false)Quando o faturamento deve ser consolidado mensalmente por cliente.
+(false)Quando o cliente não possui dias fixos de faturamento definidos.
+(false)Somente para faturamentos manuais de serviços avulsos.
+
+Qual aba deve ser acessada na operação de armazenagem para configurar o faturamento automático?
+(false)Financeiro
+(true)Faturamento
+(false)Regras de Negócio
+(false)Geral
+
+No formulário de automatização por operação, o que define o campo 'Tipo de operação'?
+(false)A categoria de imposto que será aplicada à nota fiscal.
+(false)Se o faturamento será feito por boleto ou cartão.
+(false)O nome do setor responsável por validar o faturamento.
+(true)O evento que dispara o faturamento, como entradas ou saídas.
+
+Qual é a utilidade do campo 'Observação' na configuração de automatização por operação?
+(false)Definir o e-mail para onde o faturamento será enviado.
+(true)Fornecer detalhes informativos para outros usuários sobre a configuração.
+(false)Imprimir automaticamente uma mensagem no corpo da nota fiscal.
+(false)Validar fórmulas matemáticas de cálculo de armazenagem.
+
+Segundo o material, quem foi responsável pela criação interna do processo de automatização pelo cliente?
+(false)A Gerência de Operações
+(false)Uma consultoria externa de ERP
+(true)O TI da GH
+(false)O Setor de Controladoria
+
+Onde deve ser preenchida a informação sobre os dias de faturamento no cadastro do cliente?
+(false)No campo 'Observações fiscais', na aba 'Endereço'.
+(false)No campo 'Ciclo de vida', na aba 'Geral'.
+(true)No campo 'Categoria faturamento', na aba 'Cliente II'.
+(false)Na aba 'Financeiro', no campo 'Vencimento'.
+
+Para gerar um faturamento automático por pedido, qual informação complementar deve ser incluída?
+(false)GERAR FATURAMENTO DE ARMAZÉM AUTOMÁTICO
+(false)FATURAR AUTOMATICAMENTE POR SAÍDA
+(true)GERAR FATURAMENTO POR PEDIDO DO ARMAZÉM AUTOMÁTICO
+(false)PEDIDO AUTOMÁTICO DE ARMAZENAGEM
+
+Qual é o requisito para configurar um único faturamento geral automático no cadastro do cliente?
+(true)Incluir a informação complementar 'GERAR FATURAMENTO DE ARMAZÉM AUTOMÁTICO'.
+(false)Marcar a caixa 'Faturamento Único' na aba Principal.
+(false)Vincular o cliente a um grupo de faturamento semanal.
+(false)Configurar o faturamento manualmente em cada ordem de serviço.
+
+Além de escolher o tipo de informação complementar, o que mais deve ser definido dentro dela no cadastro do cliente?
+(true)O tipo de faturamento que será utilizado.
+(false)O limite de crédito do cliente.
+(false)A transportadora padrão para as entregas.
+(false)O código de barras dos produtos armazenados.
+
+O que acontece se o campo 'Categoria faturamento' não for preenchido no cadastro do cliente?
+(false)O sistema emitirá um erro crítico impedindo o login do usuário.
+(false)O faturamento ocorrerá diariamente por padrão.
+(false)O faturamento será enviado para aprovação manual do TI.
+(true)O sistema não terá a informação dos dias de faturamento necessários para a automação.
